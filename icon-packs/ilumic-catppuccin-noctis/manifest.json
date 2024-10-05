@@ -1255,6 +1255,7 @@
     "languageIds": {
       "angular": "angular",
       "pdf": "pdf",
+      "liquid": "liquid",
       "haskell": "haskell",
       "earthfile": "earthfile",
       "nunjucks": "nunjucks",
