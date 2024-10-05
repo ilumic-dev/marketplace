@@ -1253,6 +1253,7 @@
     },
 
     "languageIds": {
+      "angular": "angular",
       "pdf": "pdf",
       "haskell": "haskell",
       "earthfile": "earthfile",
