@@ -30,7 +30,8 @@
     "ui": {
       "editor.cursor": "#b3d5ff",
       "editor.lineHighlight": "#4d566022",
-      "editor.selection": "#585b70"
+      "editor.selection": "#585b70",
+      "text": "white"
     },
     "editor": {
       "lineComment": {
