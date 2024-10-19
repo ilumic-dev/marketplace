@@ -19,9 +19,10 @@
       "sky": "#99d1db",
       "sapphire": "#85c1dc",
       "lavender": "#babbf1",
-      "border": "#626880",
       "gray-light": "#5c5f77",
 
+      "overlay1": "#8c8fa1",
+      "border": "#626880",
       "panel": "#303446",
       "paneldark": "#292c3c",
       "surface": "#414559",
@@ -32,7 +33,15 @@
       "editor.lineHighlight": "#4d566022",
       "editor.selection": "#1e1e2e",
       "accent": "palette.rosewater",
-      "text": "#c6d0f5"
+      "editor.lineNumbers": "palette.overlay1",
+      "editor.activeLineNumbers": "palette.lavender",
+      "text": "#c6d0f5",
+      "editor.bracketPairColorization1": "palette.red",
+      "editor.bracketPairColorization2": "palette.green",
+      "editor.bracketPairColorization3": "palette.yellow",
+      "editor.bracketPairColorization4": "palette.blue",
+      "editor.bracketPairColorization5": "palette.mauve",
+      "editor.bracketPairColorization6": "palette.rosewater"
     },
     "editor": {
       "comment": {
@@ -168,13 +177,7 @@
       },
       "keyword.module": {
         "color": "palette.mauve"
-      },
-      "bracketPairColorization1": "palette.red",
-      "bracketPairColorization2": "palette.green",
-      "bracketPairColorization3": "palette.yellow",
-      "bracketPairColorization4": "palette.blue",
-      "bracketPairColorization5": "palette.mauve",
-      "bracketPairColorization6": "palette.rosewater"
+      }
     }
   }
 }

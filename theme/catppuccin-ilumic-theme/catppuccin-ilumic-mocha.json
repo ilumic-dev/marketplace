@@ -19,9 +19,10 @@
       "sky": "#89dceb",
       "sapphire": "#74c7ec",
       "lavender": "#b4befe",
-      "border": "#37373f",
       "gray-light": "#9eabbe",
 
+      "overlay1": "#8c8fa1",
+      "border": "#9ca0b0",
       "panel": "#19191f",
       "paneldark": "#0e0e12",
       "surface": "#212128",
@@ -30,8 +31,10 @@
     "ui": {
       "editor.cursor": "#b3d5ff",
       "editor.lineHighlight": "#4d566022",
-      "editor.selection": "#1e1e2e",
+      "editor.selection": "palette.surface",
       "accent": "palette.rosewater",
+      "editor.lineNumbers": "palette.overlay1",
+      "editor.activeLineNumbers": "palette.lavender",
       "text": "white"
     },
     "editor": {
