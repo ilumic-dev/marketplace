@@ -60,6 +60,9 @@
       "component": {
         "color": "palette.pink"
       },
+      "tagName": {
+        "color": "palette.blue"
+      },
       "constant": {
         "color": "palette.maroon"
       },
