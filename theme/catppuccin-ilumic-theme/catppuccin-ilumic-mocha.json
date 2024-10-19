@@ -35,7 +35,13 @@
       "accent": "palette.rosewater",
       "editor.lineNumbers": "palette.overlay1",
       "editor.activeLineNumbers": "palette.lavender",
-      "text": "white"
+      "text": "#cdd6f4",
+      "editor.bracketPairColorization1": "palette.red",
+      "editor.bracketPairColorization2": "palette.green",
+      "editor.bracketPairColorization3": "palette.yellow",
+      "editor.bracketPairColorization4": "palette.blue",
+      "editor.bracketPairColorization5": "palette.mauve",
+      "editor.bracketPairColorization6": "palette.rosewater"
     },
     "editor": {
       "comment": {
@@ -171,13 +177,7 @@
       },
       "keyword.module": {
         "color": "palette.mauve"
-      },
-      "bracketPairColorization1": "palette.red",
-      "bracketPairColorization2": "palette.green",
-      "bracketPairColorization3": "palette.yellow",
-      "bracketPairColorization4": "palette.blue",
-      "bracketPairColorization5": "palette.mauve",
-      "bracketPairColorization6": "palette.rosewater"
+      }
     }
   }
 }
