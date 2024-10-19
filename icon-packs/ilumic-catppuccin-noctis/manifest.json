@@ -2,6 +2,7 @@
   "name": "Ilumic Catppuccin Noctis",
   "description": "Builtin default icons",
   "version": "1.0.0",
+  "author": "ilumic-dev",
   "icons": {
     "iconDefinitions": {
       "folder": { "iconPath": "icons/folders/folder.svg" },

@@ -1,0 +1,160 @@
+{
+  "name": "Ilumic Catppuccin (Mocha)",
+  "type": "dark",
+  "data": {
+    "palette": {
+      "red": "#f38ba8",
+      "yellow": "#f9e2af",
+      "peach": "#fab387",
+      "green": "#a6e3a1",
+      "blue": "#89b4fa",
+      "gray": "#585b70",
+
+      "rosewater": "#f5e0dc",
+      "flamingo": "#f2cdcd",
+      "pink": "#f5c2e7",
+      "mauve": "#cba6f7",
+      "maroon": "#eba0ac",
+      "teal": "#94e2d5",
+      "sky": "#89dceb",
+      "sapphire": "#74c7ec",
+      "lavender": "#b4befe",
+      "border": "#37373f",
+      "gray-light": "#9eabbe",
+
+      "panel": "#19191f",
+      "paneldark": "#0e0e12",
+      "surface": "#212128",
+      "base": "#11111b"
+    },
+    "ui": {
+      "editor.cursor": "#b3d5ff",
+      "editor.lineHighlight": "#4d566022",
+      "editor.selection": "#585b70"
+    },
+    "editor": {
+      "lineComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "multipleComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "typeName": {
+        "color": "palette.blue"
+      },
+      "component": {
+        "color": "palette.pink"
+      },
+      "constant": {
+        "color": "palette.maroon"
+      },
+      "variableNameFunction": {
+        "color": "palette.blue"
+      },
+      "variableNameCss": {
+        "color": "palette.maroon"
+      },
+      "propertyDefinition": {
+        "color": "palette.blue"
+      },
+      "propertyFunction": {
+        "color": "palette.blue"
+      },
+      "propertyVar": {
+        "color": "palette.blue"
+      },
+      "attributeName": {
+        "color": "palette.yellow"
+      },
+      "attributeValue": {
+        "color": "palette.green"
+      },
+      "angleBracket": {
+        "color": "palette.gray"
+      },
+      "className": {
+        "color": "palette.yellow"
+      },
+      "classNameConstant": {
+        "color": "palette.teal"
+      },
+      "string": {
+        "color": "palette.green"
+      },
+      "stringSpecial": {
+        "color": "palette.green"
+      },
+      "literal": {
+        "color": "palette.green"
+      },
+      "number": {
+        "color": "palette.peach"
+      },
+      "integer": {
+        "color": "palette.peach"
+      },
+      "float": {
+        "color": "palette.peach"
+      },
+      "bool": {
+        "color": "palette.peach"
+      },
+      "regexp": {
+        "color": "palette.red"
+      },
+      "color": {
+        "color": "palette.flamingo"
+      },
+      "keyword": {
+        "color": "palette.mauve"
+      },
+      "modifier": {
+        "color": "palette.mauve"
+      },
+      "markdown.heading1": {
+        "color": "palette.red"
+      },
+      "markdown.heading2": {
+        "color": "palette.peach"
+      },
+      "markdown.heading3": {
+        "color": "palette.yellow"
+      },
+      "markdown.heading4": {
+        "color": "palette.green"
+      },
+      "markdown.heading5": {
+        "color": "palette.blue"
+      },
+      "markdown.heading6": {
+        "color": "palette.mauve"
+      },
+      "markdown.bold": {
+        "color": "palette.blue"
+      },
+      "markdown.monospace": {
+        "color": "palette.green"
+      },
+      "keyword.operator": {
+        "color": "palette.teal"
+      },
+      "keyword.control": {
+        "color": "palette.mouve"
+      },
+      "keyword.definition": {
+        "color": "palette.mouve"
+      },
+      "keyword.module": {
+        "color": "palette.mouve"
+      },
+      "bracketPairColorization1": "palette.red",
+      "bracketPairColorization2": "palette.green",
+      "bracketPairColorization3": "palette.yellow",
+      "bracketPairColorization4": "palette.blue",
+      "bracketPairColorization5": "palette.mauve",
+      "bracketPairColorization6": "palette.rosewater"
+    }
+  }
+}

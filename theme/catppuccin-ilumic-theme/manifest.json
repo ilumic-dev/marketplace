@@ -1,0 +1,9 @@
+{
+  "name": "Ilumic Catppuccin Theme",
+  "description": "Builtin theme",
+  "version": "1.0.0",
+  "author": "ilumic-dev",
+  "themes": [
+    "catpuccin-ilumic-mocha.json"
+  ]
+}
