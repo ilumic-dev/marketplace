@@ -25,7 +25,7 @@
       "panel": "#19191f",
       "paneldark": "#0e0e12",
       "surface": "#212128",
-      "base": "#11111b"
+      "base": "#101019"
     },
     "ui": {
       "editor.cursor": "#b3d5ff",
@@ -114,22 +114,22 @@
       "modifier": {
         "color": "palette.mauve"
       },
-      "markdown.heading1": {
+      "heading1": {
         "color": "palette.red"
       },
-      "markdown.heading2": {
+      "heading2": {
         "color": "palette.peach"
       },
-      "markdown.heading3": {
+      "heading3": {
         "color": "palette.yellow"
       },
-      "markdown.heading4": {
+      "heading4": {
         "color": "palette.green"
       },
-      "markdown.heading5": {
+      "heading5": {
         "color": "palette.blue"
       },
-      "markdown.heading6": {
+      "heading6": {
         "color": "palette.mauve"
       },
       "markdown.bold": {
