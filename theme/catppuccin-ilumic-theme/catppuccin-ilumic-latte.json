@@ -1,0 +1,179 @@
+{
+  "name": "Ilumic Catppuccin (Latte)",
+  "type": "light",
+  "data": {
+    "palette": {
+      "red": "#d20f39",
+      "yellow": "#df8e1d",
+      "peach": "#fe640b",
+      "green": "#40a02b",
+      "blue": "#1e66f5",
+      "gray": "#585b70",
+
+      "rosewater": "#dc8a78",
+      "flamingo": "#dd7878",
+      "pink": "#ea76cb",
+      "mauve": "#8839ef",
+      "maroon": "#e64553",
+      "teal": "#179299",
+      "sky": "#04a5e5",
+      "sapphire": "#209fb5",
+      "lavender": "#7287fd",
+      "border": "#8c8fa1",
+      "gray-light": "#5c5f77",
+
+      "panel": "#eff1f5",
+      "paneldark": "#bcc0cc",
+      "surface": "#e6e9ef",
+      "base": "#dce0e8"
+    },
+    "ui": {
+      "editor.cursor": "#b3d5ff",
+      "editor.lineHighlight": "#4d566022",
+      "editor.selection": "#1e1e2e",
+      "text": "black"
+    },
+    "editor": {
+      "comment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "blockComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "lineComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "multipleComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "docComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "typeName": {
+        "color": "palette.blue"
+      },
+      "component": {
+        "color": "palette.pink"
+      },
+      "tagName": {
+        "color": "palette.blue"
+      },
+      "constant": {
+        "color": "palette.maroon"
+      },
+      "variableNameFunction": {
+        "color": "palette.blue"
+      },
+      "variableNameCss": {
+        "color": "palette.maroon"
+      },
+      "propertyDefinition": {
+        "color": "palette.blue"
+      },
+      "propertyFunction": {
+        "color": "palette.blue"
+      },
+      "propertyVar": {
+        "color": "palette.blue"
+      },
+      "attributeName": {
+        "color": "palette.yellow"
+      },
+      "attributeValue": {
+        "color": "palette.green"
+      },
+      "angleBracket": {
+        "color": "palette.gray"
+      },
+      "className": {
+        "color": "palette.yellow"
+      },
+      "classNameConstant": {
+        "color": "palette.teal"
+      },
+      "string": {
+        "color": "palette.green"
+      },
+      "stringSpecial": {
+        "color": "palette.green"
+      },
+      "literal": {
+        "color": "palette.green"
+      },
+      "number": {
+        "color": "palette.peach"
+      },
+      "integer": {
+        "color": "palette.peach"
+      },
+      "float": {
+        "color": "palette.peach"
+      },
+      "bool": {
+        "color": "palette.peach"
+      },
+      "unit": {
+        "color": "palette.mauve"
+      },
+      "regexp": {
+        "color": "palette.red"
+      },
+      "color": {
+        "color": "palette.flamingo"
+      },
+      "keyword": {
+        "color": "palette.mauve"
+      },
+      "modifier": {
+        "color": "palette.mauve"
+      },
+      "heading1": {
+        "color": "palette.red"
+      },
+      "heading2": {
+        "color": "palette.peach"
+      },
+      "heading3": {
+        "color": "palette.yellow"
+      },
+      "heading4": {
+        "color": "palette.green"
+      },
+      "heading5": {
+        "color": "palette.blue"
+      },
+      "heading6": {
+        "color": "palette.mauve"
+      },
+      "markdown.bold": {
+        "color": "palette.blue"
+      },
+      "markdown.monospace": {
+        "color": "palette.green"
+      },
+      "keyword.operator": {
+        "color": "palette.teal"
+      },
+      "keyword.control": {
+        "color": "palette.mauve"
+      },
+      "keyword.definition": {
+        "color": "palette.mauve"
+      },
+      "keyword.module": {
+        "color": "palette.mauve"
+      },
+      "bracketPairColorization1": "palette.red",
+      "bracketPairColorization2": "palette.green",
+      "bracketPairColorization3": "palette.yellow",
+      "bracketPairColorization4": "palette.blue",
+      "bracketPairColorization5": "palette.mauve",
+      "bracketPairColorization6": "palette.rosewater"
+    }
+  }
+}
