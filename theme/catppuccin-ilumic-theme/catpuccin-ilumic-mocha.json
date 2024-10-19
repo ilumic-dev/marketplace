@@ -34,11 +34,23 @@
       "text": "white"
     },
     "editor": {
+      "comment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "blockComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
       "lineComment": {
         "color": "palette.gray-light",
         "style": "italic"
       },
       "multipleComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "docComment": {
         "color": "palette.gray-light",
         "style": "italic"
       },
@@ -101,6 +113,9 @@
       },
       "bool": {
         "color": "palette.peach"
+      },
+      "unit": {
+        "color": "palette.mauve"
       },
       "regexp": {
         "color": "palette.red"
