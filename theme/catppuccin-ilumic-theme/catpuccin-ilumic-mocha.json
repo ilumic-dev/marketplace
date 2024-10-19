@@ -30,7 +30,7 @@
     "ui": {
       "editor.cursor": "#b3d5ff",
       "editor.lineHighlight": "#4d566022",
-      "editor.selection": "#585b70",
+      "editor.selection": "#1e1e2e",
       "text": "white"
     },
     "editor": {
