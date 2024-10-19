@@ -22,14 +22,14 @@
       "gray-light": "#9eabbe",
 
       "overlay1": "#8c8fa1",
-      "border": "#9ca0b0",
+      "border": "#6c7086",
       "panel": "#19191f",
       "paneldark": "#0e0e12",
       "surface": "#212128",
       "base": "#101019"
     },
     "ui": {
-      "editor.cursor": "#b3d5ff",
+      "editor.cursor": "palette.rosewater",
       "editor.lineHighlight": "#4d566022",
       "editor.selection": "palette.surface",
       "accent": "palette.rosewater",
