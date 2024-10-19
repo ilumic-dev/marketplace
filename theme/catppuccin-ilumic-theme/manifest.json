@@ -3,5 +3,9 @@
   "description": "Builtin theme",
   "version": "1.0.0",
   "author": "ilumic-dev",
-  "themes": ["catppuccin-ilumic-mocha.json", "catppuccin-ilumic-frappe.json"]
+  "themes": [
+    "catppuccin-ilumic-mocha.json",
+    "catppuccin-ilumic-frappe.json",
+    "catppuccin-ilumic-latte.json"
+  ]
 }

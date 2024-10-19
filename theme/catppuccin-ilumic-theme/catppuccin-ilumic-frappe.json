@@ -8,7 +8,7 @@
       "peach": "#ef9f76",
       "green": "#a6d189",
       "blue": "#8caaee",
-      "gray": "#585b70",
+      "gray": "#8e93b8",
 
       "rosewater": "#f2d5cf",
       "flamingo": "#eebebe",
@@ -22,7 +22,7 @@
       "gray-light": "#5c5f77",
 
       "overlay1": "#8c8fa1",
-      "border": "#737994",
+      "border": "#414559",
       "panel": "#303446",
       "paneldark": "#292c3c",
       "surface": "#414559",
@@ -30,7 +30,7 @@
     },
     "ui": {
       "editor.cursor": "palette.rosewater",
-      "editor.lineHighlight": "#4d566022",
+      "editor.lineHighlight": "#363a4d",
       "editor.selection": "#1e1e2e",
       "accent": "palette.rosewater",
       "editor.lineNumbers": "palette.overlay1",
