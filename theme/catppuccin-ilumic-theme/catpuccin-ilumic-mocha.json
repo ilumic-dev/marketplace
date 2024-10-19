@@ -142,13 +142,13 @@
         "color": "palette.teal"
       },
       "keyword.control": {
-        "color": "palette.mouve"
+        "color": "palette.mauve"
       },
       "keyword.definition": {
-        "color": "palette.mouve"
+        "color": "palette.mauve"
       },
       "keyword.module": {
-        "color": "palette.mouve"
+        "color": "palette.mauve"
       },
       "bracketPairColorization1": "palette.red",
       "bracketPairColorization2": "palette.green",
