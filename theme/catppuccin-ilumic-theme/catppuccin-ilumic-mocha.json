@@ -21,12 +21,12 @@
       "lavender": "#b4befe",
       "gray-light": "#9eabbe",
 
-      "overlay1": "#8c8fa1",
-      "border": "#2b2b33",
-      "panel": "#19191f",
-      "paneldark": "#0e0e12",
-      "surface": "#212128",
-      "base": "#101019"
+      "overlay1": "#7f849c",
+      "border": "#313244",
+      "panel": "#1e1e2e",
+      "paneldark": "#181825",
+      "surface": "#313244",
+      "base": "#11111b"
     },
     "ui": {
       "editor.cursor": "palette.rosewater",
