@@ -6,6 +6,7 @@
   "themes": [
     "catppuccin-ilumic-mocha.json",
     "catppuccin-ilumic-frappe.json",
-    "catppuccin-ilumic-latte.json"
+    "catppuccin-ilumic-latte.json",
+    "catppuccin-ilumic-macchiato.json"
   ]
 }
