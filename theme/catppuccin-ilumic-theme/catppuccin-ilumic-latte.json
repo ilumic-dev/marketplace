@@ -1,5 +1,5 @@
 {
-  "name": "Ilumic Catppuccin (Frappé)",
+  "name": "Ilumic Catppuccin (Latte)",
   "type": "light",
   "data": {
     "palette": {
@@ -30,8 +30,8 @@
     },
     "ui": {
       "editor.cursor": "palette.rosewater",
-      "editor.lineHighlight": "#363a4d",
-      "editor.selection": "#1e1e2e",
+      "editor.lineHighlight": "#363a4d08",
+      "editor.selection": "#d9dbde",
       "accent": "palette.rosewater",
       "editor.lineNumbers": "palette.overlay1",
       "editor.activeLineNumbers": "palette.lavender",
