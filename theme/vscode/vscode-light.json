@@ -1,0 +1,126 @@
+{
+  "name": "VSCode Light Modern",
+  "type": "light",
+  "data": {
+    "palette": {
+      "red": "#E50000",
+      "yellow": "#795E26",
+      "peach": "#F1C531",
+      "green": "#B5CEA8",
+      "blue": "#001080",
+      "gray": "#808080",
+
+      "black": "#212227",
+      "darkGreen": "#008000",
+      "orange": "#A31515",
+      "teal": "#267F99",
+      "pink": "#AF00DB",
+      "darkBlue": "#0000FF",
+      "lightBlue": "#0070C1",
+
+      "accent": "#007DD1",
+      "maroon": "#800000",
+
+      "border": "#E5E5E5",
+      "panel": "#FFFFFF",
+      "paneldark": "#F8F8F8",
+      "surface": "#FAFAFA",
+      "base": "#F8F8F8"
+    },
+    "ui": {
+      "editor.cursor": "palette.black",
+      "editor.lineHighlight": "palette.surface",
+      "editor.selection": "#A6D8FD",
+      "accent": "palette.accent",
+      "editor.lineNumbers": "#6D7680",
+      "editor.activeLineNumbers": "#011D81",
+      "text": "#3B3B3B",
+      "editor.bracketPairColorization1": "#0044F5",
+      "editor.bracketPairColorization2": "#1F923A",
+      "editor.bracketPairColorization3": "#803617",
+      "editor.bracketPairColorization4": "#0044F5",
+      "editor.bracketPairColorization5": "#1F923A",
+      "editor.bracketPairColorization6": "#803617"
+    },
+    "editor": {
+      "comment": {
+        "color": "palette.darkGreen"
+      },
+      "lineComment": {
+        "color": "palette.darkGreen"
+      },
+      "blockComment": {
+        "color": "palette.darkGreen"
+      },
+      "docComment": {
+        "color": "palette.darkGreen"
+      },
+      "tagName": {
+        "color": "palette.maroon"
+      },
+      "angleBracket": {
+        "color": "palette.gray"
+      },
+      "propertyVar": {
+        "color": "palette.lightBlue"
+      },
+      "component": {
+        "color": "palette.teal"
+      },
+      "constant": {
+        "color": "palette.blue"
+      },
+      "attributeName": {
+        "color": "palette.red"
+      },
+      "attributeValue": {
+        "color": "palette.maroon"
+      },
+      "variableName": {
+        "color": "palette.lightBlue"
+      },
+      "propertyName": {
+        "color": "palette.lightBlue"
+      },
+      "propertyDefinition": {
+        "color": "palette.lightBlue"
+      },
+      "variableNameFunction": {
+        "color": "palette.yellow"
+      },
+      "propertyFunction": {
+        "color": "palette.yellow"
+      },
+      "variableNameDefinition": {
+        "color": "palette.lightBlue"
+      },
+      "keyword.definition": {
+        "color": "palette.darkBlue"
+      },
+      "keyword.operator": {
+        "color": "palette.blue"
+      },
+      "keyword.control": {
+        "color": "palette.pink"
+      },
+      "keyword.module": {
+        "color": "palette.pink"
+      },
+      "string": { "color": "palette.orange" },
+      "literal": { "color": "palette.orange" },
+      "character": { "color": "palette.orange" },
+      "number": { "color": "palette.green" },
+      "integer": { "color": "palette.green" },
+      "float": { "color": "palette.green" },
+      "bool": { "color": "palette.blue" },
+      "regexp": { "color": "palette.red" },
+      "color": { "color": "palette.orange" },
+      "keyword": { "color": "palette.pink" },
+      "self": { "color": "palette.blue" },
+      "null": { "color": "palette.blue" },
+      "atom": { "color": "palette.orange" },
+      "typeOperator": { "color": "palette.blue" },
+      "controlOperator": { "color": "palette.pink" }
+    }
+  }
+}

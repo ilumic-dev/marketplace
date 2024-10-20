@@ -1,0 +1,9 @@
+{
+  "name": "Visual Studio Code",
+  "description": "Builtin theme",
+  "version": "1.0.0",
+  "author": "microsoft",
+  "themes": [
+    "vscode-dark.json"
+  ]
+}

@@ -76,6 +76,10 @@ CodeMirror tokens, are:
 - markdown.monospace
 - markdown.strikethrough
 - markdown.meta
+- keyword.operator
+- keyword.control
+- keyword.definition
+- keyword.module
 
 Token properties aviable:
 - color (str)
