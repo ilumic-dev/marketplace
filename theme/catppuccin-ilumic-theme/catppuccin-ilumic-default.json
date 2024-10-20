@@ -1,0 +1,186 @@
+{
+  "name": "Ilumic Catppuccin (Default)",
+  "type": "dark",
+  "data": {
+    "palette": {
+      "red": "#f38ba8",
+      "yellow": "#f9e2af",
+      "peach": "#fab387",
+      "green": "#a6e3a1",
+      "blue": "#89b4fa",
+      "gray": "#585b70",
+
+      "rosewater": "#f5e0dc",
+      "flamingo": "#f2cdcd",
+      "pink": "#f5c2e7",
+      "mauve": "#cba6f7",
+      "maroon": "#eba0ac",
+      "teal": "#94e2d5",
+      "sky": "#89dceb",
+      "sapphire": "#74c7ec",
+      "lavender": "#b4befe",
+      "gray-light": "#9eabbe",
+
+      "overlay1": "#8c8fa1",
+      "border": "#2b2b33",
+      "panel": "#19191f",
+      "paneldark": "#0e0e12",
+      "surface": "#212128",
+      "base": "#101019"
+    },
+    "ui": {
+      "editor.cursor": "palette.rosewater",
+      "editor.lineHighlight": "#4d566022",
+      "editor.selection": "palette.surface",
+      "accent": "palette.rosewater",
+      "editor.lineNumbers": "palette.overlay1",
+      "editor.activeLineNumbers": "palette.lavender",
+      "text": "#cdd6f4",
+      "editor.bracketPairColorization1": "palette.red",
+      "editor.bracketPairColorization2": "palette.green",
+      "editor.bracketPairColorization3": "palette.yellow",
+      "editor.bracketPairColorization4": "palette.blue",
+      "editor.bracketPairColorization5": "palette.mauve",
+      "editor.bracketPairColorization6": "palette.rosewater"
+    },
+    "editor": {
+      "comment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "blockComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "lineComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "multipleComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "docComment": {
+        "color": "palette.gray-light",
+        "style": "italic"
+      },
+      "macroName": {
+        "color": "palette.sky"
+      },
+      "typeName": {
+        "color": "palette.blue"
+      },
+      "component": {
+        "color": "palette.pink"
+      },
+      "tagName": {
+        "color": "palette.blue"
+      },
+      "constant": {
+        "color": "palette.maroon"
+      },
+      "variableNameFunction": {
+        "color": "palette.blue"
+      },
+      "variableNameCss": {
+        "color": "palette.maroon"
+      },
+      "propertyDefinition": {
+        "color": "palette.blue"
+      },
+      "propertyFunction": {
+        "color": "palette.blue"
+      },
+      "propertyVar": {
+        "color": "palette.blue"
+      },
+      "attributeName": {
+        "color": "palette.yellow"
+      },
+      "attributeValue": {
+        "color": "palette.green"
+      },
+      "angleBracket": {
+        "color": "palette.gray"
+      },
+      "className": {
+        "color": "palette.yellow"
+      },
+      "classNameConstant": {
+        "color": "palette.teal"
+      },
+      "string": {
+        "color": "palette.green"
+      },
+      "stringSpecial": {
+        "color": "palette.green"
+      },
+      "literal": {
+        "color": "palette.green"
+      },
+      "number": {
+        "color": "palette.peach"
+      },
+      "integer": {
+        "color": "palette.peach"
+      },
+      "float": {
+        "color": "palette.peach"
+      },
+      "bool": {
+        "color": "palette.peach"
+      },
+      "unit": {
+        "color": "palette.mauve"
+      },
+      "regexp": {
+        "color": "palette.red"
+      },
+      "color": {
+        "color": "palette.flamingo"
+      },
+      "keyword": {
+        "color": "palette.mauve"
+      },
+      "modifier": {
+        "color": "palette.mauve"
+      },
+      "heading1": {
+        "color": "palette.red"
+      },
+      "heading2": {
+        "color": "palette.peach"
+      },
+      "heading3": {
+        "color": "palette.yellow"
+      },
+      "heading4": {
+        "color": "palette.green"
+      },
+      "heading5": {
+        "color": "palette.blue"
+      },
+      "heading6": {
+        "color": "palette.mauve"
+      },
+      "markdown.bold": {
+        "color": "palette.blue"
+      },
+      "markdown.monospace": {
+        "color": "palette.green"
+      },
+      "keyword.operator": {
+        "color": "palette.teal"
+      },
+      "keyword.control": {
+        "color": "palette.mauve"
+      },
+      "keyword.definition": {
+        "color": "palette.mauve"
+      },
+      "keyword.module": {
+        "color": "palette.mauve"
+      }
+    }
+  }
+}
