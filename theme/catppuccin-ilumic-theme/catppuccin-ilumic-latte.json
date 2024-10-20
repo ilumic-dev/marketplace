@@ -64,6 +64,9 @@
         "color": "palette.gray-light",
         "style": "italic"
       },
+      "macroName": {
+        "color": "palette.sky"
+      },
       "typeName": {
         "color": "palette.blue"
       },
