@@ -1,0 +1,185 @@
+{
+    "name": "Github Dark",
+    "type": "dark",
+    "data": {
+      "palette": {
+        "red": "#FFA198",
+        "yellow": "#ffd057",
+        "peach": "#E3B341",
+        "green": "#56D364",
+        "blue": "#8caaee",
+        "gray": "#4e5966",
+        
+        "lightgray": "#8B949E",
+        "lightred": "#FF7B72",
+        "orange": "#ffa657",
+        "mauve": "#FF9BCE",
+        "purple": "#d2a8ff",
+        "lightgreen": "#7EE787",
+        "lightblue": "#A5D6FF",
+        "white": "#E6EDF3",
+  
+        "overlay1": "#666D78",
+        "border": "#333841",
+        "panel": "#0D1117",
+        "paneldark": "#010409",
+        "surface": "#3D424B",
+        "base": "#000000"
+      },
+      "ui": {
+        "editor.cursor": "palette.blue",
+        "editor.lineHighlight": "#171C22",
+        "editor.selection": "#264F78",
+        "accent": "palette.rosewater",
+        "editor.lineNumbers": "#6E7681",
+        "editor.activeLineNumbers": "#E6EDF3",
+        "text": "#E6EDF3",
+        "editor.bracketPairColorization1": "palette.blue",
+        "editor.bracketPairColorization2": "palette.green",
+        "editor.bracketPairColorization3": "palette.peach",
+        "editor.bracketPairColorization4": "palette.red",
+        "editor.bracketPairColorization5": "palette.mauve",
+        "editor.bracketPairColorization6": "palette.purple"
+      },
+      "editor": {
+        "comment": {
+          "color": "palette.lightgray",
+          "style": "italic"
+        },
+        "blockComment": {
+          "color": "palette.lightgray",
+          "style": "italic"
+        },
+        "lineComment": {
+          "color": "palette.lightgray",
+          "style": "italic"
+        },
+        "multipleComment": {
+          "color": "palette.lightgray",
+          "style": "italic"
+        },
+        "docComment": {
+          "color": "palette.lightgray",
+          "style": "italic"
+        },
+        "macroName": {
+          "color": "palette.lightblue"
+        },
+        "typeName": {
+          "color": "palette.lightblue"
+        },
+        "component": {
+          "color": "palette.purple"
+        },
+        "tagName": {
+          "color": "palette.lightgreen"
+        },
+        "constant": {
+          "color": "palette.lightblue"
+        },
+        "variableNameFunction": {
+          "color": "palette.purple"
+        },
+        "variableNameCss": {
+          "color": "palette.orange"
+        },
+        "propertyDefinition": {
+          "color": "palette.white"
+        },
+        "propertyFunction": {
+          "color": "palette.purple"
+        },
+        "propertyVar": {
+          "color": "palette.white"
+        },
+        "attributeName": {
+          "color": "palette.blue"
+        },
+        "attributeValue": {
+          "color": "palette.lightblue"
+        },
+        "angleBracket": {
+          "color": "palette.lightgray"
+        },
+        "className": {
+          "color": "palette.yellow"
+        },
+        "classNameConstant": {
+          "color": "palette.blue"
+        },
+        "string": {
+          "color": "palette.lightblue"
+        },
+        "stringSpecial": {
+          "color": "palette.lightblue"
+        },
+        "literal": {
+          "color": "palette.lightblue"
+        },
+        "number": {
+          "color": "palette.blue"
+        },
+        "integer": {
+          "color": "palette.blue"
+        },
+        "float": {
+          "color": "palette.blue"
+        },
+        "bool": {
+          "color": "palette.blue"
+        },
+        "unit": {
+          "color": "palette.lightred"
+        },
+        "regexp": {
+          "color": "palette.red"
+        },
+        "color": {
+          "color": "palette.orange"
+        },
+        "keyword": {
+          "color": "palette.lightred"
+        },
+        "modifier": {
+          "color": "palette.lightred"
+        },
+        "heading1": {
+          "color": "palette.blue"
+        },
+        "heading2": {
+          "color": "palette.blue"
+        },
+        "heading3": {
+          "color": "palette.blue"
+        },
+        "heading4": {
+          "color": "palette.blue"
+        },
+        "heading5": {
+          "color": "palette.blue"
+        },
+        "heading6": {
+          "color": "palette.blue"
+        },
+        "markdown.bold": {
+          "color": "palette.blue"
+        },
+        "markdown.monospace": {
+          "color": "palette.lightblue"
+        },
+        "keyword.operator": {
+          "color": "palette.white"
+        },
+        "keyword.control": {
+          "color": "palette.lightred"
+        },
+        "keyword.definition": {
+          "color": "palette.lightred"
+        },
+        "keyword.module": {
+          "color": "palette.lightred"
+        }
+      }
+    }
+  }
+  
