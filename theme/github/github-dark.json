@@ -71,6 +71,9 @@
         "phpDelimiter": {
           "color": "palette.red"
         },
+        "constantName": {
+          "color": "palette.orange"
+        },
         "component": {
           "color": "palette.purple"
         },

@@ -61,6 +61,11 @@
       "phpDelimiter": {
         "color": "palette.darkBlue"
       },
+      "constantName": {
+        "color": "palette.lightBlue",
+        "fontWeight": "bold",
+        "fontStyle": "italic"
+      },
       "angleBracket": {
         "color": "palette.gray"
       },

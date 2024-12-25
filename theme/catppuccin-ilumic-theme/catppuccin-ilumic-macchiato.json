@@ -73,6 +73,10 @@
       "phpDelimiter": {
         "color": "palette.mauve"
       },
+      "constantName": {
+        "color": "palette.orange",
+        "style": "italic"
+      },
       "component": {
         "color": "palette.pink"
       },
@@ -83,7 +87,8 @@
         "color": "palette.maroon"
       },
       "variableNameFunction": {
-        "color": "palette.blue"
+        "color": "palette.blue",
+        "fontStyle": "italic"
       },
       "variableNameCss": {
         "color": "palette.maroon"
