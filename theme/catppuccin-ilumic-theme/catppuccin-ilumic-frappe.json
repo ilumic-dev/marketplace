@@ -136,7 +136,8 @@
         "color": "palette.peach"
       },
       "bool": {
-        "color": "palette.peach"
+        "color": "palette.mauve",
+        "italic": true
       },
       "unit": {
         "color": "palette.mauve"
