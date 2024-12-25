@@ -57,6 +57,9 @@
       "tagName": {
         "color": "palette.blue"
       },
+      "phpDelimiter": {
+        "color": "palette.darkBlue"
+      },
       "angleBracket": {
         "color": "palette.gray"
       },

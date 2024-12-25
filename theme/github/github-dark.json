@@ -68,6 +68,9 @@
         "typeName": {
           "color": "palette.lightblue"
         },
+        "phpDelimiter": {
+          "color": "palette.red"
+        },
         "component": {
           "color": "palette.purple"
         },

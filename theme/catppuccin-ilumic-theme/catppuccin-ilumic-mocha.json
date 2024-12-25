@@ -70,6 +70,9 @@
       "typeName": {
         "color": "palette.blue"
       },
+      "phpDelimiter": {
+        "color": "palette.mauve"
+      },
       "component": {
         "color": "palette.pink"
       },
