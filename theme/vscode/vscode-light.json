@@ -64,7 +64,7 @@
       "constantName": {
         "color": "palette.lightBlue",
         "fontWeight": "bold",
-        "fontStyle": "italic"
+        "italic": true
       },
       "angleBracket": {
         "color": "palette.gray"
