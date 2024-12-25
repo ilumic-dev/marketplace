@@ -44,23 +44,23 @@
       "editor": {
         "comment": {
           "color": "palette.lightgray",
-          "style": "italic"
+          "italic": true
         },
         "blockComment": {
           "color": "palette.lightgray",
-          "style": "italic"
+          "italic": true
         },
         "lineComment": {
           "color": "palette.lightgray",
-          "style": "italic"
+          "italic": true
         },
         "multipleComment": {
           "color": "palette.lightgray",
-          "style": "italic"
+          "italic": true
         },
         "docComment": {
           "color": "palette.lightgray",
-          "style": "italic"
+          "italic": true
         },
         "macroName": {
           "color": "palette.lightblue"
