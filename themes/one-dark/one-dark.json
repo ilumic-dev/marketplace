@@ -93,6 +93,9 @@
             "propertyDefinition": {
                 "color": "palette.white"
             },
+            "propertyName": {
+                "color": "palette.rose"
+            },
             "propertyFunction": {
                 "color": "palette.blue"
             },
@@ -112,9 +115,9 @@
             "className": {
                 "color": "palette.peach"
             },
-        "classNameConstant": {
-          "color": "palette.blue"
-        },
+            "classNameConstant": {
+                "color": "palette.cyan"
+            },
             "string": {
                 "color": "palette.green"
             },
@@ -137,40 +140,41 @@
                 "color": "palette.purple",
                 "italic": true
             },
-        "unit": {
-          "color": "palette.lightred"
-        },
+            "unit": {
+                "color": "palette.peach"
+            },
             "regexp": {
                 "color": "palette.rose"
             },
-        "color": {
-          "color": "palette.orange"
-        },
+            "color": {
+                "color": "palette.cyan"
+            },
             "keyword": {
                 "color": "palette.purple",
                 "italic": true
             },
-        "modifier": {
-          "color": "palette.lightred"
-        },
-        "heading1": {
-          "color": "palette.blue"
-        },
-        "heading2": {
-          "color": "palette.blue"
-        },
-        "heading3": {
-          "color": "palette.blue"
-        },
-        "heading4": {
-          "color": "palette.blue"
-        },
-        "heading5": {
-          "color": "palette.blue"
-        },
-        "heading6": {
-          "color": "palette.blue"
-        },
+            "modifier": {
+                "color": "palette.purple",
+                "italic": true
+            },
+            "heading1": {
+              "color": "palette.rose"
+            },
+            "heading2": {
+              "color": "palette.rose"
+            },
+            "heading3": {
+              "color": "palette.rose"
+            },
+            "heading4": {
+              "color": "palette.rose"
+            },
+            "heading5": {
+              "color": "palette.rose"
+            },
+            "heading6": {
+              "color": "palette.rose"
+            },
         "markdown.bold": {
           "color": "palette.blue"
         },
