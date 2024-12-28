@@ -11,6 +11,8 @@
         "gray": "#4e5966",
             "purple": "#C678DD",
 
+            "lightgray": "#76879a",
+
             "cyan": "#56B6C2",
             "rose": "#E06C75",
             "white": "#ABB2BF",
@@ -69,9 +71,9 @@
                 "color": "palette.purple",
                 "italic": true
             },
-        "constantName": {
-          "color": "palette.orange"
-        },
+            "constantName": {
+                "color": "palette.orange"
+            },
         "component": {
           "color": "palette.purple"
         },
@@ -94,16 +96,16 @@
           "color": "palette.purple"
         },
             "propertyVar": {
-            "color": "palette.red"
+                "color": "palette.rose"
             },
         "attributeName": {
           "color": "palette.blue"
         },
         "attributeValue": {
-          "color": "palette.lightblue"
+          "color": "palette.green"
         },
         "angleBracket": {
-          "color": "palette.lightgray"
+          "color": "palette.gray"
         },
         "className": {
           "color": "palette.yellow"
@@ -129,14 +131,15 @@
         "float": {
           "color": "palette.blue"
         },
-        "bool": {
-          "color": "palette.blue"
-        },
+            "bool": {
+                "color": "palette.purple",
+                "italic": true
+            },
         "unit": {
           "color": "palette.lightred"
         },
         "regexp": {
-          "color": "palette.red"
+          "color": "palette.rose"
         },
         "color": {
           "color": "palette.orange"
