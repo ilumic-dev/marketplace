@@ -9,12 +9,12 @@
       "green": "#B5CEA8",
       "blue": "#4fc1ff",
       "gray": "#808080",
+      "purple": "#c586c0",
 
       "white": "#c6d0f5",
       "darkGreen": "#6A9955",
       "orange": "#CE9178",
       "teal": "#4ec9b0",
-      "pink": "#c586c0",
       "darkBlue": "#569CD6",
       "lightBlue": "#9CDCFE",
 
@@ -108,10 +108,10 @@
         "color": "palette.blue"
       },
       "keyword.control": {
-        "color": "palette.pink"
+        "color": "palette.purple"
       },
       "keyword.module": {
-        "color": "palette.pink"
+        "color": "palette.purple"
       },
       "string": { "color": "palette.orange" },
       "literal": { "color": "palette.orange" },
@@ -122,12 +122,12 @@
       "bool": { "color": "palette.blue" },
       "regexp": { "color": "palette.red" },
       "color": { "color": "palette.orange" },
-      "keyword": { "color": "palette.pink" },
+      "keyword": { "color": "palette.purple" },
       "self": { "color": "palette.blue" },
       "null": { "color": "palette.blue" },
       "atom": { "color": "palette.orange" },
       "typeOperator": { "color": "palette.blue" },
-      "controlOperator": { "color": "palette.pink" }
+      "controlOperator": { "color": "palette.purple" }
     }
   }
 }

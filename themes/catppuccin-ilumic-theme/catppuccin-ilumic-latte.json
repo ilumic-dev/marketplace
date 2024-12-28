@@ -9,11 +9,11 @@
       "green": "#40a02b",
       "blue": "#1e66f5",
       "gray": "#6c6f85",
+      "purple": "#8839ef",
 
       "rosewater": "#dc8a78",
       "flamingo": "#dd7878",
       "pink": "#ea76cb",
-      "mauve": "#8839ef",
       "maroon": "#e64553",
       "teal": "#179299",
       "sky": "#04a5e5",
@@ -32,7 +32,7 @@
       "editor.cursor": "palette.rosewater",
       "editor.lineHighlight": "#E9EBEF",
       "editor.selection": "#d9dbde",
-      "accent": "palette.mauve",
+      "accent": "palette.purple",
       "editor.lineNumbers": "palette.overlay1",
       "editor.activeLineNumbers": "palette.lavender",
       "text": "#4c4f69",
@@ -40,7 +40,7 @@
       "editor.bracketPairColorization2": "palette.green",
       "editor.bracketPairColorization3": "palette.yellow",
       "editor.bracketPairColorization4": "palette.blue",
-      "editor.bracketPairColorization5": "palette.mauve",
+      "editor.bracketPairColorization5": "palette.purple",
       "editor.bracketPairColorization6": "palette.rosewater"
     },
     "editor": {
@@ -71,7 +71,7 @@
         "color": "palette.blue"
       },
       "phpDelimiter": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "constantName": {
         "color": "palette.peach",
@@ -136,11 +136,11 @@
         "color": "palette.peach"
       },
       "bool": {
-        "color": "palette.mauve",
+        "color": "palette.purple",
         "italic": true
       },
       "unit": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "regexp": {
         "color": "palette.red"
@@ -149,10 +149,10 @@
         "color": "palette.flamingo"
       },
       "keyword": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "modifier": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "heading1": {
         "color": "palette.red"
@@ -170,7 +170,7 @@
         "color": "palette.blue"
       },
       "heading6": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "markdown.bold": {
         "color": "palette.blue"
@@ -182,13 +182,13 @@
         "color": "palette.teal"
       },
       "keyword.control": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "keyword.definition": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       },
       "keyword.module": {
-        "color": "palette.mauve"
+        "color": "palette.purple"
       }
     }
   }
