@@ -1,0 +1,8 @@
+{
+    "name": "One Dark",
+    "description": "Builtin theme",
+    "version": "1.0.0",
+    "author": "atom",
+    "themes": ["one-dark.json"]
+  }
+  
