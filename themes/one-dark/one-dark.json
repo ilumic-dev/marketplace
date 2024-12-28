@@ -87,64 +87,65 @@
             "variableNameCss": {
                 "color": "palette.white"
             },
-        "propertyDefinition": {
-          "color": "palette.white"
-        },
-        "propertyFunction": {
-          "color": "palette.purple"
-        },
+            "propertyDefinition": {
+                "color": "palette.white"
+            },
+            "propertyFunction": {
+                "color": "palette.blue"
+            },
             "propertyVar": {
-            "color": "palette.red"
+                "color": "palette.rose"
             },
             "attributeName": {
-            "color": "palette.peach",
-            "italic": true
+                "color": "palette.peach",
+                "italic": true
             },
-        "attributeValue": {
-          "color": "palette.lightblue"
-        },
-        "angleBracket": {
-          "color": "palette.lightgray"
-        },
-        "className": {
-          "color": "palette.yellow"
-        },
+            "attributeValue": {
+                "color": "palette.green"
+            },
+            "angleBracket": {
+                "color": "palette.gray"
+            },
+            "className": {
+                "color": "palette.peach"
+            },
         "classNameConstant": {
           "color": "palette.blue"
         },
-        "string": {
-          "color": "palette.green"
-        },
-        "stringSpecial": {
-          "color": "palette.lightblue"
-        },
-        "literal": {
-          "color": "palette.lightblue"
-        },
-        "number": {
-          "color": "palette.blue"
-        },
-        "integer": {
-          "color": "palette.blue"
-        },
-        "float": {
-          "color": "palette.blue"
-        },
-        "bool": {
-          "color": "palette.blue"
-        },
+            "string": {
+                "color": "palette.green"
+            },
+            "stringSpecial": {
+                "color": "palette.green"
+            },
+            "literal": {
+                "color": "palette.green"
+            },
+            "number": {
+                "color": "palette.peach"
+            },
+            "integer": {
+                "color": "palette.peach"
+            },
+            "float": {
+                "color": "palette.peach"
+            },
+            "bool": {
+                "color": "palette.purple",
+                "italic": true
+            },
         "unit": {
           "color": "palette.lightred"
         },
-        "regexp": {
-          "color": "palette.red"
-        },
+            "regexp": {
+                "color": "palette.rose"
+            },
         "color": {
           "color": "palette.orange"
         },
             "keyword": {
-            "color": "palette.purple",
-            "italic": true
+                "color": "palette.purple",
+                "italic": true
             },
         "modifier": {
           "color": "palette.lightred"
