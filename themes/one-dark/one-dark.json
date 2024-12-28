@@ -1,46 +1,41 @@
 {
-    "name": "One Dark",
+    "name": "Github Dark",
     "type": "dark",
     "data": {
       "palette": {
-        "red": "#FFA198",
-        "yellow": "#ffd057",
-        "peach": "#E3B341",
-        "green": "#56D364",
-        "blue": "#8caaee",
+            "red": "#BE5046",
+            "yellow": "#E5C07B",
+            "peach": "#D19A66",
+            "green": "#98C379",
+            "blue": "#61AFEF",
         "gray": "#4e5966",
-        "purple": "#d2a8ff",
-        
-        "lightgray": "#8B949E",
-        "lightred": "#FF7B72",
-        "orange": "#ffa657",
-        "mauve": "#FF9BCE",
-        "lightgreen": "#7EE787",
-        "lightblue": "#A5D6FF",
-        "white": "#E6EDF3",
+            "purple": "#C678DD",
+
+            "cyan": "#56B6C2",
+            "rose": "#E06C75",
   
         "overlay1": "#666D78",
         "border": "#333841",
-        "panel": "#0D1117",
-        "paneldark": "#010409",
+            "panel": "#282C34",
+            "paneldark": "#21252B",
         "paneldarkBorder": "#333841",
         "surface": "#0D1117",
-        "base": "#0D1117"
+            "base": "#21252B"
       },
       "ui": {
         "editor.cursor": "palette.blue",
-        "editor.lineHighlight": "#171C22",
-        "editor.selection": "#264F78",
-        "accent": "palette.red",
-        "editor.lineNumbers": "#6E7681",
-        "editor.activeLineNumbers": "#E6EDF3",
-        "text": "#E6EDF3",
-        "editor.bracketPairColorization1": "palette.blue",
-        "editor.bracketPairColorization2": "palette.green",
-        "editor.bracketPairColorization3": "palette.peach",
-        "editor.bracketPairColorization4": "palette.red",
-        "editor.bracketPairColorization5": "palette.mauve",
-        "editor.bracketPairColorization6": "palette.purple"
+        "editor.lineHighlight": "#2C313C",
+        "editor.selection": "#404859",
+        "accent": "palette.blue",
+        "editor.lineNumbers": "#485060",
+        "editor.activeLineNumbers": "#737984",
+        "text": "#ABB2BF",
+        "editor.bracketPairColorization1": "palette.peach",
+        "editor.bracketPairColorization2": "palette.purple",
+        "editor.bracketPairColorization3": "palette.cyan",
+        "editor.bracketPairColorization4": "palette.peach",
+        "editor.bracketPairColorization5": "palette.purple",
+        "editor.bracketPairColorization6": "palette.cyan"
       },
       "editor": {
         "comment": {
@@ -69,9 +64,10 @@
         "typeName": {
           "color": "palette.lightblue"
         },
-        "phpDelimiter": {
-          "color": "palette.red"
-        },
+            "phpDelimiter": {
+                "color": "palette.purple",
+                "italic": true
+            },
         "constantName": {
           "color": "palette.orange"
         },
@@ -81,15 +77,15 @@
         "tagName": {
           "color": "palette.lightgreen"
         },
-        "constant": {
-          "color": "palette.lightblue"
-        },
-        "variableNameFunction": {
-          "color": "palette.purple"
-        },
-        "variableNameCss": {
-          "color": "palette.orange"
-        },
+            "constant": {
+                "color": "palette.peach"
+            },
+            "variableNameFunction": {
+                "color": "palette.blue"
+            },
+            "variableNameCss": {
+                "color": "palette.white"
+            },
         "propertyDefinition": {
           "color": "palette.white"
         },

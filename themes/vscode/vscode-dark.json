@@ -29,7 +29,7 @@
     },
     "ui": {
       "editor.cursor": "palette.white",
-      "editor.lineHighlight": "palette.border",
+      "editor.lineHighlight": "#262626",
       "editor.selection": "#185176",
       "accent": "palette.accent",
       "editor.lineNumbers": "#6D7680",
