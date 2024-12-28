@@ -11,8 +11,6 @@
         "gray": "#4e5966",
             "purple": "#C678DD",
 
-            "lightgray": "#76879a",
-
             "cyan": "#56B6C2",
             "rose": "#E06C75",
             "white": "#ABB2BF",
@@ -71,15 +69,15 @@
                 "color": "palette.purple",
                 "italic": true
             },
-            "constantName": {
-                "color": "palette.orange"
+        "constantName": {
+          "color": "palette.orange"
+        },
+            "component": {
+                "color": "palette.cyan"
             },
-        "component": {
-          "color": "palette.purple"
-        },
-        "tagName": {
-          "color": "palette.lightgreen"
-        },
+            "tagName": {
+                "color": "palette.rose"
+            },
             "constant": {
                 "color": "palette.peach"
             },
@@ -96,16 +94,17 @@
           "color": "palette.purple"
         },
             "propertyVar": {
-                "color": "palette.rose"
+            "color": "palette.red"
             },
-        "attributeName": {
-          "color": "palette.blue"
-        },
+            "attributeName": {
+            "color": "palette.peach",
+            "italic": true
+            },
         "attributeValue": {
-          "color": "palette.green"
+          "color": "palette.lightblue"
         },
         "angleBracket": {
-          "color": "palette.gray"
+          "color": "palette.lightgray"
         },
         "className": {
           "color": "palette.yellow"
@@ -131,22 +130,22 @@
         "float": {
           "color": "palette.blue"
         },
-            "bool": {
-                "color": "palette.purple",
-                "italic": true
-            },
+        "bool": {
+          "color": "palette.blue"
+        },
         "unit": {
           "color": "palette.lightred"
         },
         "regexp": {
-          "color": "palette.rose"
+          "color": "palette.red"
         },
         "color": {
           "color": "palette.orange"
         },
-        "keyword": {
-          "color": "palette.lightred"
-        },
+            "keyword": {
+            "color": "palette.purple",
+            "italic": true
+            },
         "modifier": {
           "color": "palette.lightred"
         },
@@ -177,15 +176,18 @@
         "keyword.operator": {
           "color": "palette.white"
         },
-        "keyword.control": {
-          "color": "palette.lightred"
-        },
-        "keyword.definition": {
-          "color": "palette.lightred"
-        },
-        "keyword.module": {
-          "color": "palette.lightred"
-        }
+            "keyword.control": {
+                "color": "palette.purple",
+                "italic": true
+            },
+            "keyword.definition": {
+                "color": "palette.purple",
+                "italic": true
+            },
+            "keyword.module": {
+                "color": "palette.purple",
+                "italic": true
+            }
       }
     }
   }
