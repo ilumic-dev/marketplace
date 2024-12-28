@@ -1,5 +1,5 @@
 {
-    "name": "Github Dark",
+    "name": "One Dark",
     "type": "dark",
     "data": {
       "palette": {
@@ -13,13 +13,14 @@
 
             "cyan": "#56B6C2",
             "rose": "#E06C75",
+            "white": "#ABB2BF",
   
         "overlay1": "#666D78",
-        "border": "#333841",
+            "border": "#333841",
             "panel": "#282C34",
             "paneldark": "#21252B",
-        "paneldarkBorder": "#333841",
-        "surface": "#0D1117",
+            "paneldarkBorder": "#333841",
+            "surface": "#323846",
             "base": "#21252B"
       },
       "ui": {
@@ -92,9 +93,9 @@
         "propertyFunction": {
           "color": "palette.purple"
         },
-        "propertyVar": {
-          "color": "palette.lightgreen"
-        },
+            "propertyVar": {
+            "color": "palette.red"
+            },
         "attributeName": {
           "color": "palette.blue"
         },
@@ -111,7 +112,7 @@
           "color": "palette.blue"
         },
         "string": {
-          "color": "palette.lightblue"
+          "color": "palette.green"
         },
         "stringSpecial": {
           "color": "palette.lightblue"
