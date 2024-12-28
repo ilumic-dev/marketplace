@@ -18,13 +18,14 @@
       "darkBlue": "#569CD6",
       "lightBlue": "#9CDCFE",
 
-      "accent": "#007DD1",
+      "accent": "#1D7BED",
 
-      "border": "#2B2B2B",
-      "panel": "#1F1F1F",
+      "border": "#393A3B",
+      "panel": "#1E1E1E",
       "paneldark": "#181818",
-      "surface": "#282828",
-      "base": "#0F0F0F"
+      "paneldarkBorder": "#393A3B",
+      "surface": "#313233",
+      "base": "#181818"
     },
     "ui": {
       "editor.cursor": "palette.white",

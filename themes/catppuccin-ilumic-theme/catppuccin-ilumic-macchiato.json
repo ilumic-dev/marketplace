@@ -25,6 +25,7 @@
       "border": "#363a4f",
       "panel": "#24273a",
       "paneldark": "#1e2030",
+      "paneldarkBorder": "#24273a",
       "surface": "#494d64",
       "base": "#181926"
     },

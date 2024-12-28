@@ -21,11 +21,12 @@
       "accent": "#007DD1",
       "maroon": "#800000",
 
-      "border": "#E5E5E5",
+      "border": "#D1D1D1",
       "panel": "#FFFFFF",
-      "paneldark": "#F8F8F8",
+      "paneldark": "#F2F2F2",
+      "paneldarkBorder": "#D1D1D1",
       "surface": "#F0F0F0",
-      "base": "#F8F8F8"
+      "base": "#F2F2F2"
     },
     "ui": {
       "editor.cursor": "palette.black",

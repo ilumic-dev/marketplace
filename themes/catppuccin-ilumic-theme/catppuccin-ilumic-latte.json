@@ -22,15 +22,16 @@
       "gray-light": "#7c7f93",
 
       "overlay1": "#8c8fa1",
-      "border": "#7c7f93",
-      "panel": "#eff1f5",
+      "border": "#CCD0DA",
+      "panel": "#EFF1F5",
       "paneldark": "#bcc0cc",
+      "paneldarkBorder": "#DCE0E8",
       "surface": "#ccd0da",
-      "base": "#dce0e8"
+      "base": "#DCE0E8"
     },
     "ui": {
       "editor.cursor": "palette.rosewater",
-      "editor.lineHighlight": "#E9EBEF",
+      "editor.lineHighlight": "#E7EAEF",
       "editor.selection": "#d9dbde",
       "accent": "palette.purple",
       "editor.lineNumbers": "palette.overlay1",
