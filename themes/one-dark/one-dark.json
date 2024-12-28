@@ -10,6 +10,7 @@
             "blue": "#61AFEF",
         "gray": "#4e5966",
             "purple": "#C678DD",
+            "lightgray": "#76879a",
 
             "cyan": "#56B6C2",
             "rose": "#E06C75",
@@ -40,23 +41,23 @@
       },
       "editor": {
         "comment": {
-          "color": "palette.gray",
+          "color": "palette.lightgray",
           "italic": true
         },
         "blockComment": {
-          "color": "palette.gray",
+          "color": "palette.lightgray",
           "italic": true
         },
         "lineComment": {
-          "color": "palette.gray",
+          "color": "palette.lightgray",
           "italic": true
         },
         "multipleComment": {
-          "color": "palette.gray",
+          "color": "palette.lightgray",
           "italic": true
         },
         "docComment": {
-          "color": "palette.gray",
+          "color": "palette.lightgray",
           "italic": true
         },
         "macroName": {
@@ -80,7 +81,8 @@
                 "color": "palette.rose"
             },
             "constant": {
-                "color": "palette.peach"
+                "color": "palette.peach",
+                "bold": true
             },
             "variableNameFunction": {
                 "color": "palette.blue"
@@ -105,7 +107,7 @@
                 "color": "palette.green"
             },
             "angleBracket": {
-                "color": "palette.gray"
+                "color": "palette.lightgray"
             },
             "className": {
                 "color": "palette.peach"
