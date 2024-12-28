@@ -467,6 +467,7 @@
       "stories.svelte": "storybook",
       "svelte.ts": "svelte-ts",
       "blade.php": "laravel",
+      "php": "php",
       "twig": "twig",
       "html.twig": "twig",
       "story.mdx": "storybook",
