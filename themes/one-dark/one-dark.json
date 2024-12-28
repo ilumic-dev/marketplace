@@ -40,23 +40,23 @@
       },
       "editor": {
         "comment": {
-          "color": "palette.lightgray",
+          "color": "palette.gray",
           "italic": true
         },
         "blockComment": {
-          "color": "palette.lightgray",
+          "color": "palette.gray",
           "italic": true
         },
         "lineComment": {
-          "color": "palette.lightgray",
+          "color": "palette.gray",
           "italic": true
         },
         "multipleComment": {
-          "color": "palette.lightgray",
+          "color": "palette.gray",
           "italic": true
         },
         "docComment": {
-          "color": "palette.lightgray",
+          "color": "palette.gray",
           "italic": true
         },
         "macroName": {
@@ -69,9 +69,10 @@
                 "color": "palette.purple",
                 "italic": true
             },
-        "constantName": {
-          "color": "palette.orange"
-        },
+            "constantName": {
+                "color": "palette.peach",
+                "bold": true
+            },
             "component": {
                 "color": "palette.cyan"
             },
