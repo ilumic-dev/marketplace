@@ -30,7 +30,7 @@
       "ui": {
         "editor.cursor": "palette.white",
         "editor.lineHighlight": "transparent",
-        "editor.selection": "#FFFFFF",
+        "selectionBackground": "#FFFFFF",
         "accent": "palette.accent",
         "editor.lineNumbers": "#FFFFFF",
         "editor.activeLineNumbers": "palette.accent",
@@ -43,7 +43,8 @@
         "editor.bracketPairColorization6": "#00A4FB",
         "editor.activeLineBorder": "palette.accent",
         "editor.notHighlightOnGutter": true,
-        "editor.surfaceBorder": "palette.accent"
+        "surfaceBorder": "palette.accent",
+        "generalBorderRadius": 0
       },
       "editor": {
         "comment": {

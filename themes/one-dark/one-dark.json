@@ -27,7 +27,7 @@
       "ui": {
         "editor.cursor": "palette.blue",
         "editor.lineHighlight": "#2C313C",
-        "editor.selection": "#404859",
+        "selectionBackground": "#404859",
         "accent": "palette.blue",
         "editor.lineNumbers": "#485060",
         "editor.activeLineNumbers": "#737984",

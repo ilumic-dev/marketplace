@@ -32,7 +32,7 @@
     "ui": {
       "editor.cursor": "palette.rosewater",
       "editor.lineHighlight": "#262637",
-      "editor.selection": "palette.surface",
+      "selectionBackground": "palette.surface",
       "accent": "palette.purple",
       "editor.lineNumbers": "palette.overlay1",
       "editor.activeLineNumbers": "palette.lavender",

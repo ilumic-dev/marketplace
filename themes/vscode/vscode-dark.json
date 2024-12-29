@@ -29,7 +29,7 @@
     },
     "ui": {
       "editor.cursor": "palette.white",
-      "editor.lineHighlight": "#262626",
+      "editor.lineHighlight": "transparent",
       "editor.selection": "#185176",
       "accent": "palette.accent",
       "editor.lineNumbers": "#6D7680",
@@ -40,7 +40,9 @@
       "editor.bracketPairColorization3": "#00A4FB",
       "editor.bracketPairColorization4": "#F1C531",
       "editor.bracketPairColorization5": "#D36CC8",
-      "editor.bracketPairColorization6": "#00A4FB"
+      "editor.bracketPairColorization6": "#00A4FB",
+      "editor.notHighlightOnGutter": true,
+      "editor.activeLineBorder": "#282828"
     },
     "editor": {
       "comment": {
