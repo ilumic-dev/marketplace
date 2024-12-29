@@ -35,6 +35,7 @@
         "editor.lineNumbers": "#FFFFFF",
         "editor.activeLineNumbers": "palette.accent",
         "text": "#FFFFFF",
+        "editor.guttersBorder": "#FFFFFF",
         "editor.bracketPairColorization1": "#F1C531",
         "editor.bracketPairColorization2": "#D36CC8",
         "editor.bracketPairColorization3": "#00A4FB",
