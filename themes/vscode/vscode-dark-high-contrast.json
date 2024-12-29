@@ -45,7 +45,9 @@
         "editor.activeLineBorder": "palette.accent",
         "editor.notHighlightOnGutter": true,
         "surfaceBorder": "palette.accent",
-        "generalBorderRadius": 0
+        "generalBorderRadius": 0,
+        "projectIconShadow": false,
+        "fileListHoverTransition": "0s"
       },
       "editor": {
         "comment": {
