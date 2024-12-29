@@ -3,5 +3,5 @@
   "description": "Builtin theme",
   "version": "1.0.0",
   "author": "microsoft",
-  "themes": ["vscode-dark.json", "vscode-light.json"]
+  "themes": ["vscode-dark.json", "vscode-light.json", "vscode-dark-high-contrast.json"]
 }
