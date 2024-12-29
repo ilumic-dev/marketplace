@@ -24,9 +24,9 @@
       "overlay1": "#8c8fa1",
       "border": "#CCD0DA",
       "panel": "#EFF1F5",
-      "paneldark": "#bcc0cc",
+      "paneldark": "#E6E9EF",
       "paneldarkBorder": "#DCE0E8",
-      "surface": "#ccd0da",
+      "surface": "#CCD0DA",
       "base": "#DCE0E8"
     },
     "ui": {
