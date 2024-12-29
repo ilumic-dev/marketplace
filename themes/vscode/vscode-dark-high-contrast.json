@@ -33,7 +33,7 @@
         "editor.selection": "#FFFFFF",
         "accent": "palette.accent",
         "editor.lineNumbers": "#FFFFFF",
-        "editor.activeLineNumbers": "#CCCCCC",
+        "editor.activeLineNumbers": "palette.accent",
         "text": "#FFFFFF",
         "editor.bracketPairColorization1": "#F1C531",
         "editor.bracketPairColorization2": "#D36CC8",
@@ -42,7 +42,8 @@
         "editor.bracketPairColorization5": "#D36CC8",
         "editor.bracketPairColorization6": "#00A4FB",
         "editor.activeLineBorder": "palette.accent",
-        "editor.notHighlightOnGutter": true
+        "editor.notHighlightOnGutter": true,
+        "editor.surfaceBorder": "palette.accent"
       },
       "editor": {
         "comment": {
