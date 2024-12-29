@@ -1,5 +1,5 @@
 {
-    "name": "VSCode Dark Modern",
+    "name": "VSCode Dark High Contrast",
     "type": "dark",
     "data": {
       "palette": {
@@ -72,7 +72,7 @@
           "color": "palette.gray"
         },
         "propertyVar": {
-          "color": "palette.lightBlue"
+          "color": "palette.white"
         },
         "component": {
           "color": "palette.teal"
