@@ -37,7 +37,7 @@
             "editor.bracketPairColorization4": "palette.lightBlue",
             "editor.bracketPairColorization5": "palette.peach",
             "editor.bracketPairColorization6": "palette.purple",
-            "editor.notHighlightOnGutter": true,
+            "editor.notHighlightOnGutter": true
         },
         "editor": {
             "comment": {
