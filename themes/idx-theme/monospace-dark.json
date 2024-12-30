@@ -165,14 +165,29 @@
             "heading6": {
                 "color": "palette.blue"
             },
-            "markdown.meta": {
+            "markdown.meta.heading": {
                 "color": "palette.blue"
+            },
+            "markdown.meta.quote": {
+                "color": "palette.green"
+            },
+            "markdown.meta.list": {
+                "color": "palette.yellow"
+            },
+            "markdown.quote": {
+                "color": "palette.green"
             },
             "markdown.bold": {
                 "color": "palette.white"
             },
             "markdown.monospace": {
-                "color": "palette.lightblue"
+                "color": "palette.white"
+            },
+            "markdown.linkName": {
+                "color": "palette.green"
+            },
+            "markdown.linkUrl": {
+                "color": "palette.white"
             },
             "keyword.operator": {
                 "color": "palette.white"
