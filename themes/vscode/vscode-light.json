@@ -31,7 +31,7 @@
     "ui": {
       "editor.cursor": "palette.black",
       "editor.lineHighlight": "palette.surface",
-      "editor.selection": "#A6D8FD",
+      "selectionBackground": "#A6D8FD",
       "accent": "palette.accent",
       "editor.lineNumbers": "#6D7680",
       "editor.activeLineNumbers": "#011D81",

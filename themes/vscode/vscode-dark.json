@@ -30,7 +30,7 @@
     "ui": {
       "editor.cursor": "palette.white",
       "editor.lineHighlight": "transparent",
-      "editor.selection": "#185176",
+      "selectionBackground": "#185176",
       "accent": "palette.accent",
       "editor.lineNumbers": "#6D7680",
       "editor.activeLineNumbers": "#CCCCCC",
