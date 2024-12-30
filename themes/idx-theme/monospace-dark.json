@@ -25,7 +25,7 @@
         },
         "ui": {
             "editor.cursor": "palette.white",
-            "editor.lineHighlight": "#171C22",
+            "editor.lineHighlight": "#1F2939",
             "selectionBackground": "#264F78",
             "accent": "#A87FFB",
             "editor.lineNumbers": "#6E7681",
@@ -165,8 +165,11 @@
             "heading6": {
                 "color": "palette.blue"
             },
-            "markdown.bold": {
+            "markdown.meta": {
                 "color": "palette.blue"
+            },
+            "markdown.bold": {
+                "color": "palette.white"
             },
             "markdown.monospace": {
                 "color": "palette.lightblue"
