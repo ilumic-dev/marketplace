@@ -1,0 +1,190 @@
+{
+    "name": "Github Dark",
+    "type": "dark",
+    "data": {
+        "palette": {
+            "red": "#FFA198",
+            "yellow": "#ffd057",
+            "peach": "#E3B341",
+            "green": "#56D364",
+            "blue": "#8caaee",
+            "gray": "#4e5966",
+            "purple": "#d2a8ff",
+            "lightgray": "#8B949E",
+            "lightred": "#FF7B72",
+            "orange": "#ffa657",
+            "mauve": "#FF9BCE",
+            "lightgreen": "#7EE787",
+            "lightblue": "#A5D6FF",
+            "white": "#E6EDF3",
+            "overlay1": "#666D78",
+            "border": "#333E4F",
+            "panel": "#171F2B",
+            "paneldark": "#10151D",
+            "paneldarkBorder": "#333E4F",
+            "surface": "#1F2939",
+            "base": "#0D1117"
+        },
+        "ui": {
+            "editor.cursor": "palette.blue",
+            "editor.lineHighlight": "#1F2939",
+            "selectionBackground": "#1F377C",
+            "accent": "palette.red",
+            "editor.lineNumbers": "#475365",
+            "editor.activeLineNumbers": "#D9DFE7",
+            "text": "#E6EDF3",
+            "editor.notHighlightOnGutter": true,
+            "editor.bracketPairColorization1": "palette.blue",
+            "editor.bracketPairColorization2": "palette.green",
+            "editor.bracketPairColorization3": "palette.peach",
+            "editor.bracketPairColorization4": "palette.red",
+            "editor.bracketPairColorization5": "palette.mauve",
+            "editor.bracketPairColorization6": "palette.purple"
+        },
+        "editor": {
+            "comment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "blockComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "lineComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "multipleComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "docComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "macroName": {
+                "color": "palette.lightblue"
+            },
+            "typeName": {
+                "color": "palette.lightblue"
+            },
+            "phpDelimiter": {
+                "color": "palette.red"
+            },
+            "constantName": {
+                "color": "palette.orange"
+            },
+            "component": {
+                "color": "palette.purple"
+            },
+            "tagName": {
+                "color": "palette.lightgreen"
+            },
+            "constant": {
+                "color": "palette.lightblue"
+            },
+            "variableNameFunction": {
+                "color": "palette.purple"
+            },
+            "variableNameCss": {
+                "color": "palette.orange"
+            },
+            "propertyDefinition": {
+                "color": "palette.white"
+            },
+            "propertyFunction": {
+                "color": "palette.purple"
+            },
+            "propertyVar": {
+                "color": "palette.lightgreen"
+            },
+            "attributeName": {
+                "color": "palette.blue"
+            },
+            "attributeValue": {
+                "color": "palette.lightblue"
+            },
+            "angleBracket": {
+                "color": "palette.lightgray"
+            },
+            "className": {
+                "color": "palette.yellow"
+            },
+            "classNameConstant": {
+                "color": "palette.blue"
+            },
+            "string": {
+                "color": "palette.lightblue"
+            },
+            "stringSpecial": {
+                "color": "palette.lightblue"
+            },
+            "literal": {
+                "color": "palette.lightblue"
+            },
+            "number": {
+                "color": "palette.blue"
+            },
+            "integer": {
+                "color": "palette.blue"
+            },
+            "float": {
+                "color": "palette.blue"
+            },
+            "bool": {
+                "color": "palette.blue"
+            },
+            "unit": {
+                "color": "palette.lightred"
+            },
+            "regexp": {
+                "color": "palette.red"
+            },
+            "color": {
+                "color": "palette.orange"
+            },
+            "keyword": {
+                "color": "palette.lightred"
+            },
+            "modifier": {
+                "color": "palette.lightred"
+            },
+            "heading1": {
+                "color": "palette.blue"
+            },
+            "heading2": {
+                "color": "palette.blue"
+            },
+            "heading3": {
+                "color": "palette.blue"
+            },
+            "heading4": {
+                "color": "palette.blue"
+            },
+            "heading5": {
+                "color": "palette.blue"
+            },
+            "heading6": {
+                "color": "palette.blue"
+            },
+            "markdown.bold": {
+                "color": "palette.blue"
+            },
+            "markdown.monospace": {
+                "color": "palette.lightblue"
+            },
+            "keyword.operator": {
+                "color": "palette.white"
+            },
+            "keyword.control": {
+                "color": "palette.lightred"
+            },
+            "keyword.definition": {
+                "color": "palette.lightred"
+            },
+            "keyword.module": {
+                "color": "palette.lightred"
+            }
+        }
+    }
+}

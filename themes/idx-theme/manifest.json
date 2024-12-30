@@ -1,0 +1,9 @@
+{
+    "name": "Idx Theme",
+    "description": "A theme based on idx colors.",
+    "version": "1.0.0",
+    "author": "pico190",
+    "themes": [
+        "monospace-dark.json"
+    ]
+}
