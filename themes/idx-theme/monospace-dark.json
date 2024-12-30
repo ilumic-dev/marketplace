@@ -3,43 +3,41 @@
     "type": "dark",
     "data": {
         "palette": {
-            "red": "#FFA198",
-            "yellow": "#ffd057",
-            "peach": "#E3B341",
-            "green": "#56D364",
-            "blue": "#8caaee",
-            "gray": "#4e5966",
-            "purple": "#d2a8ff",
-            "lightgray": "#8B949E",
-            "lightred": "#FF7B72",
-            "orange": "#ffa657",
-            "mauve": "#FF9BCE",
-            "lightgreen": "#7EE787",
-            "lightblue": "#A5D6FF",
-            "white": "#E6EDF3",
+            "red": "#FD8DA3",
+            "yellow": "#FFD395",
+            "peach": "#ffb142",
+            "green": "#77D5A3",
+            "blue": "#92A9FF",
+            "gray": "#4e5866",
+            "purple": "#A87FFB",
+
+            "lightBlue": "#85CDF1",
+            "white": "#D9DFE7",
+            "lightGray": "#7F8D9F",
+
             "overlay1": "#666D78",
-            "border": "#333E4F",
-            "panel": "#171F2B",
-            "paneldark": "#10151D",
-            "paneldarkBorder": "#333E4F",
-            "surface": "#1F2939",
+            "border": "#333841",
+            "panel": "#0D1117",
+            "paneldark": "#010409",
+            "paneldarkBorder": "#333841",
+            "surface": "#3D424B",
             "base": "#0D1117"
         },
         "ui": {
-            "editor.cursor": "palette.blue",
-            "editor.lineHighlight": "#1F2939",
-            "selectionBackground": "#1F377C",
-            "accent": "palette.red",
-            "editor.lineNumbers": "#475365",
-            "editor.activeLineNumbers": "#D9DFE7",
-            "text": "#E6EDF3",
+            "editor.cursor": "palette.white",
+            "editor.lineHighlight": "#171C22",
+            "selectionBackground": "#264F78",
+            "accent": "palette.purple",
+            "editor.lineNumbers": "#6E7681",
+            "editor.activeLineNumbers": "#E6EDF3",
+            "text": "palette.white",
+            "editor.bracketPairColorization1": "palette.lightBlue",
+            "editor.bracketPairColorization2": "palette.peach",
+            "editor.bracketPairColorization3": "palette.purple",
+            "editor.bracketPairColorization4": "palette.lightBlue",
+            "editor.bracketPairColorization5": "palette.peach",
+            "editor.bracketPairColorization6": "palette.purple",
             "editor.notHighlightOnGutter": true,
-            "editor.bracketPairColorization1": "palette.blue",
-            "editor.bracketPairColorization2": "palette.green",
-            "editor.bracketPairColorization3": "palette.peach",
-            "editor.bracketPairColorization4": "palette.red",
-            "editor.bracketPairColorization5": "palette.mauve",
-            "editor.bracketPairColorization6": "palette.purple"
         },
         "editor": {
             "comment": {
@@ -72,16 +70,16 @@
                 "color": "palette.red"
             },
             "constantName": {
-                "color": "palette.orange"
+                "color": "palette.blue"
             },
             "component": {
-                "color": "palette.purple"
+                "color": "palette.blue"
             },
             "tagName": {
-                "color": "palette.lightgreen"
+                "color": "palette.green"
             },
             "constant": {
-                "color": "palette.lightblue"
+                "color": "palette.blue"
             },
             "variableNameFunction": {
                 "color": "palette.purple"
@@ -96,31 +94,31 @@
                 "color": "palette.purple"
             },
             "propertyVar": {
-                "color": "palette.lightgreen"
+                "color": "palette.lightBlue"
             },
             "attributeName": {
-                "color": "palette.blue"
+                "color": "palette.purple"
             },
             "attributeValue": {
-                "color": "palette.lightblue"
+                "color": "palette.green"
             },
             "angleBracket": {
-                "color": "palette.lightgray"
+                "color": "palette.white"
             },
             "className": {
-                "color": "palette.yellow"
+                "color": "palette.purple"
             },
             "classNameConstant": {
-                "color": "palette.blue"
+                "color": "palette.purple"
             },
             "string": {
-                "color": "palette.lightblue"
+                "color": "palette.green"
             },
             "stringSpecial": {
-                "color": "palette.lightblue"
+                "color": "palette.green"
             },
             "literal": {
-                "color": "palette.lightblue"
+                "color": "palette.green"
             },
             "number": {
                 "color": "palette.blue"
@@ -144,10 +142,10 @@
                 "color": "palette.orange"
             },
             "keyword": {
-                "color": "palette.lightred"
+                "color": "palette.red"
             },
             "modifier": {
-                "color": "palette.lightred"
+                "color": "palette.red"
             },
             "heading1": {
                 "color": "palette.blue"
@@ -177,13 +175,13 @@
                 "color": "palette.white"
             },
             "keyword.control": {
-                "color": "palette.lightred"
+                "color": "palette.red"
             },
             "keyword.definition": {
-                "color": "palette.lightred"
+                "color": "palette.red"
             },
             "keyword.module": {
-                "color": "palette.lightred"
+                "color": "palette.red"
             }
         }
     }
