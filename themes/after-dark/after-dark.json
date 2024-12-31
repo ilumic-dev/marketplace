@@ -33,13 +33,16 @@
             "text": "#B1BED2",
             "statusBarBackground": "#0F1826",
             "sidebarBorder": "#212E47",
-            "emptyLineGutterFg": "#ffffff12",
+            "headerBorder": "#212E47",
+            "separatorBorder": "#212E47",
+            "editor.emptyLineGutterFg": "#ffffff12",
             "editor.bracketPairColorization1": "palette.purple",
             "editor.bracketPairColorization2": "palette.blue",
             "editor.bracketPairColorization3": "palette.teal",
             "editor.bracketPairColorization4": "palette.peach",
             "editor.bracketPairColorization5": "palette.purple",
-            "editor.bracketPairColorization6": "palette.teal"
+            "editor.bracketPairColorization6": "palette.teal",
+            "projectIconShadow": false,
         },
         "editor": {
             "comment": {
