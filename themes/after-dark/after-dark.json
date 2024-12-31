@@ -42,7 +42,7 @@
             "editor.bracketPairColorization4": "palette.peach",
             "editor.bracketPairColorization5": "palette.purple",
             "editor.bracketPairColorization6": "palette.teal",
-            "projectIconShadow": false,
+            "projectIconShadow": false
         },
         "editor": {
             "comment": {
