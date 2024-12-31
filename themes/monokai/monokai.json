@@ -1,0 +1,204 @@
+{
+    "name": "Monokai",
+    "type": "dark",
+    "data": {
+        "palette": {
+            "red": "#FD8DA3",
+            "yellow": "#FFD395",
+            "peach": "#ffb142",
+            "green": "#77D5A3",
+            "blue": "#92A9FF",
+            "gray": "#4e5866",
+            "purple": "#BD9CFE",
+
+            "white": "#F8F8F2",
+
+            "overlay1": "#272822",
+            "border": "#272822",
+            "panel": "#272822",
+            "paneldark": "#1E1F1C",
+            "paneldarkBorder": "#1E1F1C",
+            "surface": "#3E3D32",
+            "base": "#1E1F1C"
+        },
+        "ui": {
+            "editor.cursor": "palette.white",
+            "editor.lineHighlight": "#3E3D32",
+            "selectionBackground": "#264F78",
+            "accent": "#A87FFB",
+            "editor.lineNumbers": "#6E7681",
+            "editor.activeLineNumbers": "#E6EDF3",
+            "text": "palette.white",
+            "editor.bracketPairColorization1": "palette.lightBlue",
+            "editor.bracketPairColorization2": "palette.yellow",
+            "editor.bracketPairColorization3": "palette.purple",
+            "editor.bracketPairColorization4": "palette.lightBlue",
+            "editor.bracketPairColorization5": "palette.yellow",
+            "editor.bracketPairColorization6": "palette.purple",
+            "editor.notHighlightOnGutter": true
+        },
+        "editor": {
+            "comment": {
+                "color": "palette.lightGray",
+                "italic": true
+            },
+            "blockComment": {
+                "color": "palette.lightGray",
+                "italic": true
+            },
+            "lineComment": {
+                "color": "palette.lightGray",
+                "italic": true
+            },
+            "multipleComment": {
+                "color": "palette.lightGray",
+                "italic": true
+            },
+            "docComment": {
+                "color": "palette.lightGray",
+                "italic": true
+            },
+            "macroName": {
+                "color": "palette.lightBlue"
+            },
+            "typeName": {
+                "color": "palette.blue"
+            },
+            "phpDelimiter": {
+                "color": "palette.red"
+            },
+            "constantName": {
+                "color": "palette.blue"
+            },
+            "component": {
+                "color": "palette.blue"
+            },
+            "tagName": {
+                "color": "palette.green"
+            },
+            "constant": {
+                "color": "palette.blue"
+            },
+            "variableNameFunction": {
+                "color": "palette.purple"
+            },
+            "variableNameCss": {
+                "color": "palette.yellow"
+            },
+            "propertyDefinition": {
+                "color": "palette.white"
+            },
+            "propertyFunction": {
+                "color": "palette.purple"
+            },
+            "propertyVar": {
+                "color": "palette.lightBlue"
+            },
+            "attributeName": {
+                "color": "palette.purple"
+            },
+            "attributeValue": {
+                "color": "palette.green"
+            },
+            "angleBracket": {
+                "color": "palette.white"
+            },
+            "className": {
+                "color": "palette.purple"
+            },
+            "classNameConstant": {
+                "color": "palette.purple"
+            },
+            "string": {
+                "color": "palette.green"
+            },
+            "stringSpecial": {
+                "color": "palette.green"
+            },
+            "literal": {
+                "color": "palette.green"
+            },
+            "number": {
+                "color": "palette.blue"
+            },
+            "integer": {
+                "color": "palette.blue"
+            },
+            "float": {
+                "color": "palette.blue"
+            },
+            "bool": {
+                "color": "palette.blue"
+            },
+            "unit": {
+                "color": "palette.lightred"
+            },
+            "regexp": {
+                "color": "palette.red"
+            },
+            "color": {
+                "color": "palette.orange"
+            },
+            "keyword": {
+                "color": "palette.red"
+            },
+            "modifier": {
+                "color": "palette.red"
+            },
+            "heading1": {
+                "color": "palette.blue"
+            },
+            "heading2": {
+                "color": "palette.blue"
+            },
+            "heading3": {
+                "color": "palette.blue"
+            },
+            "heading4": {
+                "color": "palette.blue"
+            },
+            "heading5": {
+                "color": "palette.blue"
+            },
+            "heading6": {
+                "color": "palette.blue"
+            },
+            "markdown.meta.heading": {
+                "color": "palette.blue"
+            },
+            "markdown.meta.quote": {
+                "color": "palette.green"
+            },
+            "markdown.meta.list": {
+                "color": "palette.yellow"
+            },
+            "markdown.quote": {
+                "color": "palette.green"
+            },
+            "markdown.bold": {
+                "color": "palette.white"
+            },
+            "markdown.monospace": {
+                "color": "palette.white"
+            },
+            "markdown.linkName": {
+                "color": "palette.green"
+            },
+            "markdown.linkUrl": {
+                "color": "palette.white"
+            },
+            "keyword.operator": {
+                "color": "palette.white"
+            },
+            "keyword.control": {
+                "color": "palette.red"
+            },
+            "keyword.definition": {
+                "color": "palette.red"
+            },
+            "keyword.module": {
+                "color": "palette.red"
+            }
+        }
+    }
+}
