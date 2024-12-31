@@ -50,6 +50,7 @@
             "activeTabBackground": "#1E1E1E",
             "tabsBackground": "#282828",
             "toolbarBackground": "#353535",
+            "editor.emptyLineGutterFg": "#ffffff12",
             "tabAccent": "transparent"
         },
         "editor": {
