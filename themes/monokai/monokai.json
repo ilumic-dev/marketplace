@@ -153,6 +153,9 @@
             "regexp": {
                 "color": "palette.yellow"
             },
+            "brace": {
+                "color": "palette.gray"
+            },
             "color": {
                 "color": "palette.purple"
             },

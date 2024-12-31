@@ -103,7 +103,7 @@
                 "color": "palette.blue"
             },
             "variableNameFunction": {
-                "color": "palette.green"
+                "color": "palette.orange"
             },
             "variableNameCss": {
                 "color": "palette.white"
@@ -112,7 +112,7 @@
                 "color": ""
             },
             "propertyFunction": {
-                "color": "palette.purple"
+                "color": "palette.orange"
             },
             "propertyName": {
                 "color": "palette.blue"
@@ -124,6 +124,9 @@
             "attributeName": {
                 "color": "palette.blue",
                 "italic": true
+            },
+            "brace": {
+                "color": "palette.gray"
             },
             "atom": {
                 "color": "palette.blue"
