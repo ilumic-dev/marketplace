@@ -14,17 +14,17 @@
             "lightRed": "#B38098",
             "teal": "#53C6BA",
 
-            "overlay1": "#0B121D",
-            "border": "#0B121D",
-            "panel": "#0B121D",
-            "paneldark": "#0B121D",
-            "paneldarkBorder": "#0B121D",
+            "overlay1": "#0E131B",
+            "border": "#0E131B",
+            "panel": "#0E131B",
+            "paneldark": "#0E131B",
+            "paneldarkBorder": "#0E131B",
             "surface": "#121E30",
-            "base": "#0B121D"
+            "base": "#0E131B"
         },
         "ui": {
             "editor.cursor": "#93B4FA",
-            "editor.lineHighlight": "#121E30",
+            "editor.lineHighlight": "transparent",
             "selectionBackground": "#2A3B5A",
             "accent": "#48BDB1",
             "editor.notHighlightOnGutter": true,
