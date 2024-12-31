@@ -20,10 +20,10 @@
             "paneldark": "#0B121D",
             "paneldarkBorder": "#0B121D",
             "surface": "#121E30",
-            "base": "#0B121D",
+            "base": "#0B121D"
         },
         "ui": {
-            "editor.cursor": "palette.rosewater",
+            "editor.cursor": "#93B4FA",
             "editor.lineHighlight": "#121E30",
             "selectionBackground": "#1e1e2e",
             "accent": "#48BDB1",
