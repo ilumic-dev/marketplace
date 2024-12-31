@@ -89,7 +89,7 @@
                 "color": "palette.purple"
             },
             "variableNameFunction": {
-                "color": "palette.green"
+                "color": "palette.blue"
             },
             "variableNameCss": {
                 "color": "palette.white"
@@ -98,7 +98,7 @@
                 "color": ""
             },
             "propertyFunction": {
-                "color": "palette.green"
+                "color": "palette.blue"
             },
             "propertyName": {
                 "color": ""
@@ -157,7 +157,7 @@
                 "color": "palette.purple"
             },
             "keyword": {
-                "color": "palette.pink"
+                "color": "palette.blue"
             },
             "modifier": {
                 "color": "palette.pink"

@@ -3,5 +3,5 @@
     "description": "Monokai Theme for Ilumic Editor.",
     "version": "1.0.0",
     "author": "monokai",
-    "themes": ["monokai.json", "monokai-classic.json"]
+    "themes": ["monokai.json", "monokai-classic.json", "monokai-dimmed.json"]
 }
