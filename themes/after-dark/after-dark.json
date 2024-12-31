@@ -25,7 +25,7 @@
         "ui": {
             "editor.cursor": "#93B4FA",
             "editor.lineHighlight": "#121E30",
-            "selectionBackground": "#1e1e2e",
+            "selectionBackground": "#2A3B5A",
             "accent": "#48BDB1",
             "editor.notHighlightOnGutter": true,
             "editor.lineNumbers": "#3F4C5A",
@@ -42,7 +42,10 @@
             "editor.bracketPairColorization4": "palette.peach",
             "editor.bracketPairColorization5": "palette.purple",
             "editor.bracketPairColorization6": "palette.teal",
-            "projectIconShadow": false
+            "projectIconShadow": false,
+            "activeTabBackground": "palette.panel",
+            "tabsBackground": "#0F1826",
+            "tabAccent": "transparentui"
         },
         "editor": {
             "comment": {
@@ -119,6 +122,10 @@
             },
             "className": {
                 "color": "palette.yellow"
+            },
+            "labelName": {
+                "color": "palette.yellow",
+                "italic": true
             },
             "classNameConstant": {
                 "color": "palette.peach",
