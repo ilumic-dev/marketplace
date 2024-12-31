@@ -44,8 +44,9 @@
             "editor.bracketPairColorization6": "palette.teal",
             "projectIconShadow": false,
             "activeTabBackground": "palette.panel",
-            "tabsBackground": "#0F1826",
-            "tabAccent": "transparentui"
+            "tabsBackground": "#111722",
+            "tabAccent": "#88ABF9",
+            "tabAccentPosition": "top"
         },
         "editor": {
             "comment": {
