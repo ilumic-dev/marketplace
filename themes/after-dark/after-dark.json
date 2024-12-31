@@ -1,9 +1,9 @@
 {
-    "name": "Ilumic Catppuccin (Frappé)",
+    "name": "After Dark",
     "type": "dark",
     "data": {
         "palette": {
-            "red": "#e78284",
+                "red": "#e78284",
             "yellow": "#E8C37D",
             "peach": "#E8C37D",
             "green": "#98C379",
@@ -14,23 +14,23 @@
             "lightRed": "#B38098",
             "teal": "#53C6BA",
 
-            "overlay1": "#8c8fa1",
+            "overlay1": "#0B121D",
             "border": "#0B121D",
             "panel": "#0B121D",
             "paneldark": "#0B121D",
             "paneldarkBorder": "#0B121D",
-            "surface": "#414559",
+            "surface": "#121E30",
             "base": "#0B121D",
-            "editor.notHighlightOnGutter": true
         },
         "ui": {
             "editor.cursor": "palette.rosewater",
-            "editor.lineHighlight": "#363a4d",
+            "editor.lineHighlight": "#121E30",
             "selectionBackground": "#1e1e2e",
-            "accent": "palette.purple",
-            "editor.lineNumbers": "palette.overlay1",
-            "editor.activeLineNumbers": "palette.lavender",
-            "text": "#c6d0f5",
+            "accent": "#48BDB1",
+            "editor.notHighlightOnGutter": true,
+            "editor.lineNumbers": "#3F4C5A",
+            "editor.activeLineNumbers": "#B1BED2",
+            "text": "#B1BED2",
             "statusBarBackground": "0F1826",
             "sidebarBorder": "#212E47",
             "editor.bracketPairColorization1": "palette.purple",
