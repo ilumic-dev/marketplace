@@ -19,8 +19,8 @@
             "panel": "#273136",
             "paneldark": "#1D2528",
             "paneldarkBorder": "#161B1E",
-            "surface": "#403E41",
-            "base": "#221F22"
+            "surface": "#323544",
+            "base": "#1D2528"
         },
         "ui": {
             "editor.cursor": "#FCFCFA",
@@ -42,7 +42,7 @@
             "activeTabBackground": "transparent",
             "tabsBackground": "#273136",
             "separatorBorder": "#3A4449",
-            "toolbarBackground": "#19181A",
+            "toolbarBackground": "#161B1E",
             "editor.emptyLineGutterFg": "#ffffff12",
             "tabAccent": "#FFED72"
         },
