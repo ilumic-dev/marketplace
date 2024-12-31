@@ -152,25 +152,44 @@
           "color": "palette.lightred"
         },
         "heading1": {
-          "color": "palette.blue"
+          "color": "#79C0FF",
+          "bold": true
         },
         "heading2": {
-          "color": "palette.blue"
+          "color": "#79C0FF",
+          "bold": true
         },
         "heading3": {
-          "color": "palette.blue"
+          "color": "#79C0FF",
+          "bold": true
         },
         "heading4": {
-          "color": "palette.blue"
+          "color": "#79C0FF",
+          "bold": true
         },
         "heading5": {
-          "color": "palette.blue"
+          "color": "#79C0FF",
+          "bold": true
         },
         "heading6": {
-          "color": "palette.blue"
+          "color": "#79C0FF",
+          "bold": true
         },
         "markdown.bold": {
           "color": "palette.blue"
+        },
+        "markdown.meta.heading": {
+          "color": "#79C0FF",
+          "bold": true
+        },
+        "markdown.meta.quote": {
+          "color": "palette.green"
+        },
+        "markdown.meta.list": {
+          "color": "palette.peach"
+        },
+        "markdown.quote": {
+          "color": "palette.green"
         },
         "markdown.monospace": {
           "color": "palette.lightblue"
