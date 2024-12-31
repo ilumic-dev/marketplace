@@ -43,7 +43,7 @@
             "separatorBorder": "#4b4a40",
             "headerBorder": "#4b4a406b",
             "tabBorder": "#4b4a406b",
-            "tabAccent": "transparent",
+            "tabAccent": "transparent"
         },
         "editor": {
             "comment": {
