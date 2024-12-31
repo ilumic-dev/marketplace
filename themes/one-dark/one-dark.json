@@ -158,22 +158,34 @@
                 "italic": true
             },
             "heading1": {
-              "color": "palette.rose"
+                "color": "#EF596F"
             },
             "heading2": {
-              "color": "palette.rose"
+                "color": "#EF596F"
             },
             "heading3": {
-              "color": "palette.rose"
+                "color": "#EF596F"
             },
             "heading4": {
-              "color": "palette.rose"
+                "color": "#EF596F"
             },
             "heading5": {
-              "color": "palette.rose"
+                "color": "#EF596F"
             },
             "heading6": {
-              "color": "palette.rose"
+                "color": "#EF596F"
+            },
+            "markdown.meta.heading": {
+                "color": "#EF596F"
+            },
+            "markdown.meta.quote": {
+                "color": "#5C6370"
+            },
+            "markdown.meta.list": {
+                "color": "palette.yellow"
+            },
+            "markdown.quote": {
+                "color": "#5C6370"
             },
         "markdown.bold": {
           "color": "palette.blue"

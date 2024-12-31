@@ -171,6 +171,36 @@
             "modifier": {
                 "color": "palette.purple"
             },
+            "operator": {
+                "color": "palette.gray"
+            },
+            "derefOperator": {
+                "color": "palette.gray"
+            },
+            "arithmeticOperator": {
+                "color": "palette.gray"
+            },
+            "logicOperator": {
+                "color": "palette.gray"
+            },
+            "bitwiseOperator": {
+                "color": "palette.gray"
+            },
+            "compareOperator": {
+                "color": "palette.gray"
+            },
+            "updateOperator": {
+                "color": "palette.gray"
+            },
+            "definitionOperator": {
+                "color": "palette.gray"
+            },
+            "typeOperator": {
+                "color": "palette.gray"
+            },
+            "controlOperator": {
+                "color": "palette.gray"
+            },
             "heading1": {
                 "color": ""
             },
