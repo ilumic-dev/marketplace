@@ -31,6 +31,7 @@
             "editor.lineNumbers": "#90908A",
             "editor.activeLineNumbers": "#C2C2BF",
             "text": "palette.white",
+            "statusBarBackground": "#414339",
             "editor.bracketPairColorization1": "#FFD700",
             "editor.bracketPairColorization2": "#DA70D6",
             "editor.bracketPairColorization3": "#179FFF",
