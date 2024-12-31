@@ -99,6 +99,9 @@
             "variableName": {
                 "color": "palette.blue"
             },
+            "variableNameDefinition": {
+                "color": "palette.blue"
+            },
             "variableNameFunction": {
                 "color": "palette.green"
             },
@@ -112,7 +115,7 @@
                 "color": "palette.purple"
             },
             "propertyName": {
-                "color": "palette.yellow"
+                "color": "palette.blue"
             },
             "propertyVar": {
                 "color": "palette.blue",
@@ -138,13 +141,13 @@
                 "color": "palette.green"
             },
             "string": {
-                "color": "palette.yellow"
+                "color": "palette.green"
             },
             "stringSpecial": {
-                "color": "palette.yellow"
+                "color": "palette.green"
             },
             "literal": {
-                "color": "palette.yellow"
+                "color": "palette.green"
             },
             "number": {
                 "color": "palette.purple"
@@ -261,8 +264,7 @@
                 "color": "palette.purple"
             },
             "keyword.definition": {
-                "color": "palette.blue",
-                "italic": true
+                "color": "palette.purple"
             },
             "keyword.module": {
                 "color": "palette.purple"
