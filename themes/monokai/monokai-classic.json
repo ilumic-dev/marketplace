@@ -1,5 +1,5 @@
 {
-    "name": "Monokai",
+    "name": "Monokai Classic",
     "type": "dark",
     "data": {
         "palette": {
@@ -17,33 +17,35 @@
             "lightgray": "#88846F",
 
             "overlay1": "#272822",
-            "border": "#272822",
+            "border": "#161613",
             "panel": "#272822",
             "paneldark": "#1E1F1C",
-            "paneldarkBorder": "#1E1F1C",
+            "paneldarkBorder": "#161613",
             "surface": "#3E3D32",
-            "base": "#1E1F1C"
+            "base": "#1D1E19"
         },
         "ui": {
             "editor.cursor": "palette.white",
-            "editor.lineHighlight": "#2e2e26",
+            "editor.lineHighlight": "#32332D",
             "selectionBackground": "#575A5A",
-            "accent": "#007ACC",
+            "accent": "#E6DB74",
             "editor.lineNumbers": "#90908A",
             "editor.activeLineNumbers": "#C2C2BF",
             "text": "palette.white",
-            "statusBarBackground": "#414339",
-            "editor.bracketPairColorization1": "#FFD700",
-            "editor.bracketPairColorization2": "#DA70D6",
-            "editor.bracketPairColorization3": "#179FFF",
-            "editor.bracketPairColorization4": "#FFD700",
-            "editor.bracketPairColorization5": "#DA70D6",
-            "editor.bracketPairColorization6": "#179FFF",
+            "statusBarBackground": "#1D1E19",
+            "editor.bracketPairColorization1": "palette.pink",
+            "editor.bracketPairColorization2": "palette.orange",
+            "editor.bracketPairColorization3": "palette.yellow",
+            "editor.bracketPairColorization4": "palette.green",
+            "editor.bracketPairColorization5": "palette.blue",
+            "editor.bracketPairColorization6": "palette.purple",
             "editor.notHighlightOnGutter": true,
             "separatorBorder": "#4b4a40",
-            "headerBorder": "#4b4a406b",
+            "headerBorder": "#161613",
             "tabBorder": "#4b4a406b",
-            "tabAccent": "transparent"
+            "activeTabBackground": "transparent",
+            "toolbarBackground": "#161613",
+            "tabAccent": "#E6DB74"
         },
         "editor": {
             "comment": {
@@ -74,7 +76,7 @@
                 "italic": true
             },
             "phpDelimiter": {
-                "color": "palette.pink"
+                "color": "palette.orange"
             },
             "constantName": {
                 "color": "palette.purple"
