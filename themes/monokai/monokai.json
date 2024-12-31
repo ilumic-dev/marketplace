@@ -11,6 +11,7 @@
             "gray": "#646254",
             "purple": "#AE81FF",
 
+            "orange": "#FD971F",
             "pink": "#F92672",
             "white": "#F8F8F2",
             "lightgray": "#88846F",
@@ -38,7 +39,11 @@
             "editor.bracketPairColorization4": "#FFD700",
             "editor.bracketPairColorization5": "#DA70D6",
             "editor.bracketPairColorization6": "#179FFF",
-            "editor.notHighlightOnGutter": true
+            "editor.notHighlightOnGutter": true,
+            "separatorBorder": "#4b4a40",
+            "headerBorder": "#4b4a406b",
+            "tabBorder": "#4b4a406b",
+            "tabAccent": "transparent",
         },
         "editor": {
             "comment": {
@@ -65,7 +70,8 @@
                 "color": ""
             },
             "typeName": {
-                "color": ""
+                "color": "palette.blue",
+                "italic": true
             },
             "phpDelimiter": {
                 "color": "palette.pink"
@@ -74,13 +80,13 @@
                 "color": "palette.purple"
             },
             "component": {
-                "color": ""
+                "color": "palette.pink"
             },
             "tagName": {
-                "color": ""
+                "color": "palette.pink"
             },
             "constant": {
-                "color": ""
+                "color": "palette.purple"
             },
             "variableNameFunction": {
                 "color": "palette.green"
@@ -102,22 +108,23 @@
                 "italic": true
             },
             "attributeName": {
-                "color": ""
+                "color": "palette.blue",
+                "italic": true
             },
             "atom": {
                 "color": "palette.blue"
             },
             "attributeValue": {
-                "color": ""
+                "color": "palette.yellow"
             },
             "angleBracket": {
-                "color": ""
+                "color": "#919288"
             },
             "className": {
                 "color": "palette.green"
             },
             "classNameConstant": {
-                "color": ""
+                "color": "palette.green"
             },
             "string": {
                 "color": "palette.yellow"
@@ -138,27 +145,24 @@
                 "color": "palette.purple"
             },
             "bool": {
-                "color": ""
+                "color": "palette.purple"
             },
             "unit": {
-                "color": ""
-            },
-            "regexp": {
-                "color": ""
-            },
-            "color": {
-                "color": "palette.blue"
-            },
-            "keyword": {
-                "color": ""
-            },
-            "modifier": {
-                "color": ""
-            },
-            "operator": {
                 "color": "palette.pink"
             },
-            "derefOperator": {
+            "regexp": {
+                "color": "palette.yellow"
+            },
+            "color": {
+                "color": "palette.purple"
+            },
+            "keyword": {
+                "color": "palette.pink"
+            },
+            "modifier": {
+                "color": "palette.pink"
+            },
+            "operator": {
                 "color": "palette.pink"
             },
             "arithmeticOperator": {
@@ -186,40 +190,52 @@
                 "color": "palette.pink"
             },
             "heading1": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "heading2": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "heading3": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "heading4": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "heading5": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "heading6": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "markdown.meta.heading": {
-                "color": ""
+                "color": "palette.green",
+                "bold": true
             },
             "markdown.meta.quote": {
-                "color": ""
+                "color": "#75715E",
+                "italic": true
             },
             "markdown.meta.list": {
-                "color": ""
+                "color": "palette.green"
             },
             "markdown.quote": {
-                "color": ""
+                "color": "#75715E",
+                "italic": true
             },
             "markdown.bold": {
-                "color": ""
+                "color": "palette.blue"
+            },
+            "markdown.italic": {
+                "color": "palette.blue"
             },
             "markdown.monospace": {
-                "color": ""
+                "color": "palette.orange"
             },
             "markdown.linkName": {
                 "color": ""
