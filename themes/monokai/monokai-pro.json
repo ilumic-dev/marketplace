@@ -41,6 +41,7 @@
             "projectIconShadow": false,
             "activeTabBackground": "transparent",
             "tabsBackground": "#2D2A2E",
+            "separatorBorder": "#545255",
             "toolbarBackground": "#19181A",
             "editor.emptyLineGutterFg": "#ffffff12",
             "tabAccent": "#FFD866"
@@ -74,7 +75,7 @@
                 "italic": true
             },
             "phpDelimiter": {
-                "color": "palette.orange"
+                "color": "palette.peach"
             },
             "constantName": {
                 "color": "palette.white"
@@ -196,52 +197,52 @@
                 "color": "palette.red"
             },
             "heading1": {
-                "color": "palette.green",
+                "color": "palette.yellow",
                 "bold": true
             },
             "heading2": {
-                "color": "palette.green",
+                "color": "palette.yellow",
                 "bold": true
             },
             "heading3": {
-                "color": "palette.green",
+                "color": "palette.yellow",
                 "bold": true
             },
             "heading4": {
-                "color": "palette.green",
+                "color": "palette.yellow",
                 "bold": true
             },
             "heading5": {
-                "color": "palette.green",
+                "color": "palette.yellow",
                 "bold": true
             },
             "heading6": {
-                "color": "palette.green",
+                "color": "palette.yellow",
                 "bold": true
             },
             "markdown.meta.heading": {
-                "color": "palette.green",
+                "color": "palette.lightgray",
                 "bold": true
             },
             "markdown.meta.quote": {
-                "color": "#75715E",
+                "color": "palette.lightgray",
                 "italic": true
             },
             "markdown.meta.list": {
-                "color": "palette.green"
+                "color": "palette.lightgray"
             },
             "markdown.quote": {
-                "color": "#75715E",
+                "color": "palette.white",
                 "italic": true
             },
             "markdown.bold": {
-                "color": "palette.blue"
+                "color": "palette.white"
             },
             "markdown.italic": {
-                "color": "palette.blue"
+                "color": "palette.white"
             },
             "markdown.monospace": {
-                "color": "palette.orange"
+                "color": "palette.peach"
             },
             "markdown.linkName": {
                 "color": ""
@@ -250,17 +251,17 @@
                 "color": ""
             },
             "keyword.operator": {
-                "color": "palette.purple"
+                "color": "palette.red"
             },
             "keyword.control": {
-                "color": "palette.purple"
+                "color": "palette.red"
             },
             "keyword.definition": {
                 "color": "palette.blue",
                 "italic": true
             },
             "keyword.module": {
-                "color": "palette.purple"
+                "color": "palette.red"
             }
         }
     }
