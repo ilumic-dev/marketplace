@@ -4,7 +4,7 @@
     "data": {
         "palette": {
                 "red": "#C7444A",
-            "yellow": "#E6DB74",
+                "yellow": "#D0B344",
             "peach": "#DA70D6",
                 "orange": "#D08442",
                 "green": "#9AA833",
@@ -24,7 +24,7 @@
             "panel": "#1E1E1E",
             "paneldark": "#272727",
             "paneldarkBorder": "#272727",
-            "surface": "#3E3D32",
+            "surface": "#252526",
             "base": "#505050"
         },
         "ui": {
@@ -46,6 +46,7 @@
             "separatorBorder": "#4b4a40",
             "headerBorder": "#161613",
             "tabBorder": "#4b4a406b",
+            "projectIconShadow": false,
             "activeTabBackground": "#1E1E1E",
             "tabsBackground": "#404040",
             "toolbarBackground": "#353535",
@@ -86,10 +87,10 @@
                 "color": "palette.white"
             },
             "component": {
-                "color": "palette.pink"
+                "color": "palette.red"
             },
             "tagName": {
-                "color": "palette.pink"
+                "color": "palette.blue"
             },
             "constant": {
                 "color": "palette.purple"
@@ -110,7 +111,7 @@
                 "color": "palette.purple"
             },
             "propertyName": {
-                "color": "palette.blue"
+                "color": "palette.yellow"
             },
             "propertyVar": {
                 "color": "palette.blue",
@@ -124,10 +125,10 @@
                 "color": "palette.blue"
             },
             "attributeValue": {
-                "color": "palette.yellow"
+                "color": "palette.green"
             },
             "angleBracket": {
-                "color": "#919288"
+                "color": "palette.blue"
             },
             "className": {
                 "color": "palette.green"
@@ -253,17 +254,17 @@
                 "color": ""
             },
             "keyword.operator": {
-                "color": "palette.pink"
+                "color": "palette.purple"
             },
             "keyword.control": {
-                "color": "palette.pink"
+                "color": "palette.purple"
             },
             "keyword.definition": {
                 "color": "palette.blue",
                 "italic": true
             },
             "keyword.module": {
-                "color": ""
+                "color": "palette.purple"
             }
         }
     }
