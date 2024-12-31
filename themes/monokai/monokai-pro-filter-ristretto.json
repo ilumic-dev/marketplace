@@ -1,0 +1,268 @@
+{
+    "name": "Monokai Pro (Filter Octagon)",
+    "type": "dark",
+    "data": {
+        "palette": {
+            "red": "#FF5D60",
+            "yellow": "#FFC658",
+            "peach": "#FF854A",
+            "green": "#BAD756",
+            "blue": "#9CD1BB",
+            "gray": "#797D85",
+            "purple": "#C39ABB",
+
+            "white": "#F2FFE9",
+            "lightgray": "#535763",
+
+            "overlay1": "#221F22",
+            "border": "#161B1E",
+            "panel": "#282A3A",
+            "paneldark": "#1E1F2B",
+            "paneldarkBorder": "#161821",
+            "surface": "#323544",
+            "base": "#1E1F2B"
+        },
+        "ui": {
+            "editor.cursor": "#FCFCFA",
+            "editor.lineHighlight": "#323544",
+            "selectionBackground": "#3D404D",
+            "accent": "#FFD76D",
+            "editor.lineNumbers": "#535763",
+            "editor.activeLineNumbers": "#B8C4C3",
+            "text": "palette.white",
+            "statusBarBackground": "#1E1F2B",
+            "editor.bracketPairColorization1": "palette.red",
+            "editor.bracketPairColorization2": "palette.peach",
+            "editor.bracketPairColorization3": "palette.yellow",
+            "editor.bracketPairColorization4": "palette.green",
+            "editor.bracketPairColorization5": "palette.blue",
+            "editor.bracketPairColorization6": "palette.purple",
+            "editor.notHighlightOnGutter": true,
+            "projectIconShadow": false,
+            "activeTabBackground": "transparent",
+            "tabsBackground": "#282A3A",
+            "separatorBorder": "#323544",
+            "toolbarBackground": "#161821",
+            "editor.emptyLineGutterFg": "#ffffff12",
+            "tabAccent": "#FFD76D"
+        },
+        "editor": {
+            "comment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "blockComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "lineComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "multipleComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "docComment": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "macroName": {
+                "color": ""
+            },
+            "typeName": {
+                "color": "palette.blue",
+                "italic": true
+            },
+            "phpDelimiter": {
+                "color": "palette.peach"
+            },
+            "constantName": {
+                "color": "palette.white"
+            },
+            "component": {
+                "color": "palette.red"
+            },
+            "tagName": {
+                "color": "palette.red"
+            },
+            "constant": {
+                "color": "palette.red"
+            },
+            "variableName": {
+                "color": "palette.white"
+            },
+            "variableNameFunction": {
+                "color": "palette.green"
+            },
+            "variableNameCss": {
+                "color": "palette.white"
+            },
+            "propertyDefinition": {
+                "color": ""
+            },
+            "propertyFunction": {
+                "color": "palette.green"
+            },
+            "propertyName": {
+                "color": "palette.white"
+            },
+            "propertyVar": {
+                "color": "palette.white"
+            },
+            "attributeName": {
+                "color": "palette.blue",
+                "italic": true
+            },
+            "brace": {
+                "color": "palette.gray"
+            },
+            "atom": {
+                "color": "palette.blue"
+            },
+            "attributeValue": {
+                "color": "palette.yellow"
+            },
+            "angleBracket": {
+                "color": "palette.gray"
+            },
+            "className": {
+                "color": "palette.blue"
+            },
+            "classNameConstant": {
+                "color": "palette.blue",
+                "italic": true
+            },
+            "string": {
+                "color": "palette.yellow"
+            },
+            "stringSpecial": {
+                "color": "palette.yellow"
+            },
+            "literal": {
+                "color": "palette.yellow"
+            },
+            "number": {
+                "color": "palette.purple"
+            },
+            "integer": {
+                "color": "palette.purple"
+            },
+            "float": {
+                "color": "palette.purple"
+            },
+            "bool": {
+                "color": "palette.purple"
+            },
+            "unit": {
+                "color": "palette.red"
+            },
+            "regexp": {
+                "color": "palette.yellow"
+            },
+            "color": {
+                "color": "palette.purple"
+            },
+            "keyword": {
+                "color": "palette.purple"
+            },
+            "modifier": {
+                "color": "palette.purple"
+            },
+            "operator": {
+                "color": "palette.red"
+            },
+            "arithmeticOperator": {
+                "color": "palette.red"
+            },
+            "logicOperator": {
+                "color": "palette.red"
+            },
+            "bitwiseOperator": {
+                "color": "palette.red"
+            },
+            "compareOperator": {
+                "color": "palette.red"
+            },
+            "updateOperator": {
+                "color": "palette.red"
+            },
+            "definitionOperator": {
+                "color": "palette.red"
+            },
+            "typeOperator": {
+                "color": "palette.red"
+            },
+            "controlOperator": {
+                "color": "palette.red"
+            },
+            "heading1": {
+                "color": "palette.yellow",
+                "bold": true
+            },
+            "heading2": {
+                "color": "palette.yellow",
+                "bold": true
+            },
+            "heading3": {
+                "color": "palette.yellow",
+                "bold": true
+            },
+            "heading4": {
+                "color": "palette.yellow",
+                "bold": true
+            },
+            "heading5": {
+                "color": "palette.yellow",
+                "bold": true
+            },
+            "heading6": {
+                "color": "palette.yellow",
+                "bold": true
+            },
+            "markdown.meta.heading": {
+                "color": "palette.lightgray",
+                "bold": true
+            },
+            "markdown.meta.quote": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
+            "markdown.meta.list": {
+                "color": "palette.lightgray"
+            },
+            "markdown.quote": {
+                "color": "palette.white",
+                "italic": true
+            },
+            "markdown.bold": {
+                "color": "palette.white"
+            },
+            "markdown.italic": {
+                "color": "palette.white"
+            },
+            "markdown.monospace": {
+                "color": "palette.peach"
+            },
+            "markdown.linkName": {
+                "color": ""
+            },
+            "markdown.linkUrl": {
+                "color": ""
+            },
+            "keyword.operator": {
+                "color": "palette.red"
+            },
+            "keyword.control": {
+                "color": "palette.red"
+            },
+            "keyword.definition": {
+                "color": "palette.blue",
+                "italic": true
+            },
+            "keyword.module": {
+                "color": "palette.red"
+            }
+        }
+    }
+}
