@@ -3,15 +3,17 @@
     "type": "dark",
     "data": {
         "palette": {
-            "red": "#FD8DA3",
-            "yellow": "#FFD395",
-            "peach": "#ffb142",
-            "green": "#77D5A3",
-            "blue": "#92A9FF",
-            "gray": "#4e5866",
-            "purple": "#BD9CFE",
+            "red": "#F44747",
+            "yellow": "#E6DB74",
+            "peach": "#DA70D6",
+            "green": "#A6E22E",
+            "blue": "#66D9EF",
+            "gray": "#646254",
+            "purple": "#AE81FF",
 
+            "pink": "#F92672",
             "white": "#F8F8F2",
+            "lightgray": "#88846F",
 
             "overlay1": "#272822",
             "border": "#272822",
@@ -24,17 +26,17 @@
         "ui": {
             "editor.cursor": "palette.white",
             "editor.lineHighlight": "#3E3D32",
-            "selectionBackground": "#264F78",
-            "accent": "#A87FFB",
-            "editor.lineNumbers": "#6E7681",
-            "editor.activeLineNumbers": "#E6EDF3",
+            "selectionBackground": "#575A5A",
+            "accent": "#007ACC",
+            "editor.lineNumbers": "#90908A",
+            "editor.activeLineNumbers": "#C2C2BF",
             "text": "palette.white",
-            "editor.bracketPairColorization1": "palette.lightBlue",
-            "editor.bracketPairColorization2": "palette.yellow",
-            "editor.bracketPairColorization3": "palette.purple",
-            "editor.bracketPairColorization4": "palette.lightBlue",
-            "editor.bracketPairColorization5": "palette.yellow",
-            "editor.bracketPairColorization6": "palette.purple",
+            "editor.bracketPairColorization1": "#FFD700",
+            "editor.bracketPairColorization2": "#DA70D6",
+            "editor.bracketPairColorization3": "#179FFF",
+            "editor.bracketPairColorization4": "#FFD700",
+            "editor.bracketPairColorization5": "#DA70D6",
+            "editor.bracketPairColorization6": "#179FFF",
             "editor.notHighlightOnGutter": true
         },
         "editor": {
@@ -59,145 +61,153 @@
                 "italic": true
             },
             "macroName": {
-                "color": "palette.lightBlue"
+                "color": ""
             },
             "typeName": {
-                "color": "palette.blue"
+                "color": ""
             },
             "phpDelimiter": {
-                "color": "palette.red"
+                "color": "palette.pink"
             },
             "constantName": {
-                "color": "palette.blue"
+                "color": "palette.purple"
             },
             "component": {
-                "color": "palette.blue"
+                "color": ""
             },
             "tagName": {
-                "color": "palette.green"
+                "color": ""
             },
             "constant": {
-                "color": "palette.blue"
+                "color": ""
             },
             "variableNameFunction": {
-                "color": "palette.purple"
+                "color": "palette.green"
             },
             "variableNameCss": {
-                "color": "palette.yellow"
+                "color": "palette.white"
             },
             "propertyDefinition": {
-                "color": "palette.white"
+                "color": ""
             },
             "propertyFunction": {
-                "color": "palette.purple"
+                "color": "palette.green"
+            },
+            "propertyName": {
+                "color": ""
             },
             "propertyVar": {
-                "color": "palette.lightBlue"
+                "color": "palette.blue",
+                "italic": true
             },
             "attributeName": {
-                "color": "palette.purple"
+                "color": ""
+            },
+            "atom": {
+                "color": "palette.blue"
             },
             "attributeValue": {
-                "color": "palette.green"
+                "color": ""
             },
             "angleBracket": {
-                "color": "palette.white"
+                "color": ""
             },
             "className": {
-                "color": "palette.purple"
+                "color": "palette.green"
             },
             "classNameConstant": {
-                "color": "palette.purple"
+                "color": ""
             },
             "string": {
-                "color": "palette.green"
+                "color": ""
             },
             "stringSpecial": {
-                "color": "palette.green"
+                "color": ""
             },
             "literal": {
-                "color": "palette.green"
+                "color": ""
             },
             "number": {
-                "color": "palette.blue"
+                "color": ""
             },
             "integer": {
-                "color": "palette.blue"
+                "color": ""
             },
             "float": {
-                "color": "palette.blue"
+                "color": ""
             },
             "bool": {
-                "color": "palette.blue"
+                "color": ""
             },
             "unit": {
-                "color": "palette.lightred"
+                "color": ""
             },
             "regexp": {
-                "color": "palette.red"
+                "color": ""
             },
             "color": {
-                "color": "palette.orange"
+                "color": "palette.blue"
             },
             "keyword": {
-                "color": "palette.red"
+                "color": ""
             },
             "modifier": {
-                "color": "palette.red"
+                "color": ""
             },
             "heading1": {
-                "color": "palette.blue"
+                "color": ""
             },
             "heading2": {
-                "color": "palette.blue"
+                "color": ""
             },
             "heading3": {
-                "color": "palette.blue"
+                "color": ""
             },
             "heading4": {
-                "color": "palette.blue"
+                "color": ""
             },
             "heading5": {
-                "color": "palette.blue"
+                "color": ""
             },
             "heading6": {
-                "color": "palette.blue"
+                "color": ""
             },
             "markdown.meta.heading": {
-                "color": "palette.blue"
+                "color": ""
             },
             "markdown.meta.quote": {
-                "color": "palette.green"
+                "color": ""
             },
             "markdown.meta.list": {
-                "color": "palette.yellow"
+                "color": ""
             },
             "markdown.quote": {
-                "color": "palette.green"
+                "color": ""
             },
             "markdown.bold": {
-                "color": "palette.white"
+                "color": ""
             },
             "markdown.monospace": {
-                "color": "palette.white"
+                "color": ""
             },
             "markdown.linkName": {
-                "color": "palette.green"
+                "color": ""
             },
             "markdown.linkUrl": {
-                "color": "palette.white"
+                "color": ""
             },
             "keyword.operator": {
-                "color": "palette.white"
+                "color": ""
             },
             "keyword.control": {
-                "color": "palette.red"
+                "color": ""
             },
             "keyword.definition": {
-                "color": "palette.red"
+                "color": "palette.blue",
+                "italic": true
             },
             "keyword.module": {
-                "color": "palette.red"
+                "color": ""
             }
         }
     }
