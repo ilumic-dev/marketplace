@@ -3,51 +3,47 @@
     "type": "dark",
     "data": {
         "palette": {
-            "red": "#C7444A",
-            "yellow": "#D0B344",
-            "peach": "#DA70D6",
-            "orange": "#D08442",
-            "green": "#9AA833",
-            "blue": "#6089B4",
-            "gray": "#676867",
-            "purple": "#7972A2",
+            "red": "#FF6188",
+            "yellow": "#FFD866",
+            "peach": "#FC9867",
+            "green": "#A9DC76",
+            "blue": "#78DCE8",
+            "gray": "#4d4d4d",
+            "purple": "#AB9DF2",
 
-            "white": "#F8F8F2",
-            "lightgray": "#9A9B99",
+            "white": "#FCFCFA",
+            "lightgray": "#727072",
 
-            "overlay1": "#272822",
-            "border": "transparent",
-            "panel": "#1E1E1E",
-            "paneldark": "#272727",
-            "paneldarkBorder": "#272727",
-            "surface": "#252526",
-            "base": "#505050"
+            "overlay1": "#221F22",
+            "border": "#19181A",
+            "panel": "#2D2A2E",
+            "paneldark": "#221F22",
+            "paneldarkBorder": "#19181A",
+            "surface": "#403E41",
+            "base": "#221F22"
         },
         "ui": {
-            "editor.cursor": "#C07020",
-            "editor.lineHighlight": "#262626",
-            "selectionBackground": "#575A5A",
-            "accent": "#3655B5",
-            "editor.lineNumbers": "#858585",
-            "editor.activeLineNumbers": "#858585",
+            "editor.cursor": "#FCFCFA",
+            "editor.lineHighlight": "#383539",
+            "selectionBackground": "#434144",
+            "accent": "#FFD866",
+            "editor.lineNumbers": "#5B595C",
+            "editor.activeLineNumbers": "#C1C0C0",
             "text": "palette.white",
-            "statusBarBackground": "#424447",
-            "editor.bracketPairColorization1": "palette.pink",
-            "editor.bracketPairColorization2": "palette.orange",
+            "statusBarBackground": "#221F22",
+            "editor.bracketPairColorization1": "palette.red",
+            "editor.bracketPairColorization2": "palette.peach",
             "editor.bracketPairColorization3": "palette.yellow",
             "editor.bracketPairColorization4": "palette.green",
             "editor.bracketPairColorization5": "palette.blue",
             "editor.bracketPairColorization6": "palette.purple",
             "editor.notHighlightOnGutter": true,
-            "separatorBorder": "#4b4a40",
-            "headerBorder": "#161613",
-            "tabBorder": "#4b4a406b",
             "projectIconShadow": false,
-            "activeTabBackground": "#1E1E1E",
-            "tabsBackground": "#282828",
-            "toolbarBackground": "#353535",
+            "activeTabBackground": "transparent",
+            "tabsBackground": "#2D2A2E",
+            "toolbarBackground": "#19181A",
             "editor.emptyLineGutterFg": "#ffffff12",
-            "tabAccent": "transparent"
+            "tabAccent": "#FFD866"
         },
         "editor": {
             "comment": {
@@ -74,7 +70,7 @@
                 "color": ""
             },
             "typeName": {
-                "color": "palette.darkRed",
+                "color": "palette.blue",
                 "italic": true
             },
             "phpDelimiter": {
@@ -87,19 +83,16 @@
                 "color": "palette.red"
             },
             "tagName": {
-                "color": "palette.blue"
+                "color": "palette.red"
             },
             "constant": {
-                "color": "palette.purple"
+                "color": "palette.red"
             },
             "variableName": {
-                "color": "palette.blue"
-            },
-            "variableNameDefinition": {
-                "color": "palette.blue"
+                "color": "palette.white"
             },
             "variableNameFunction": {
-                "color": "palette.orange"
+                "color": "palette.green"
             },
             "variableNameCss": {
                 "color": "palette.white"
@@ -108,60 +101,60 @@
                 "color": ""
             },
             "propertyFunction": {
-                "color": "palette.orange"
+                "color": "palette.green"
             },
             "propertyName": {
-                "color": "palette.blue"
+                 "color": "palette.white"
             },
             "propertyVar": {
-                "color": "palette.blue",
-                "italic": true
+                "color": "palette.white"
             },
             "attributeName": {
+                 "color": "palette.blue",
+                 "italic": true
+            },
+            "brace": {
+                 "color": "palette.gray"
+            },
+            "atom": {
+                 "color": "palette.blue"
+            },
+            "attributeValue": {
+                "color": "palette.yellow"
+            },
+            "angleBracket": {
+                "color": "palette.gray"
+            },
+            "className": {
+                "color": "palette.blue"
+            },
+            "classNameConstant": {
                 "color": "palette.blue",
                 "italic": true
             },
-            "brace": {
-                "color": "palette.gray"
-            },
-            "atom": {
-                "color": "palette.blue"
-            },
-            "attributeValue": {
-                "color": "palette.green"
-            },
-            "angleBracket": {
-                "color": "palette.blue"
-            },
-            "className": {
-                "color": "palette.green"
-            },
-            "classNameConstant": {
-                "color": "palette.green"
-            },
             "string": {
-                "color": "palette.green"
+                "color": "palette.yellow"
             },
             "stringSpecial": {
-                "color": "palette.green"
+                "color": "palette.yellow"
             },
             "literal": {
-                "color": "palette.green"
+                "color": "palette.yellow"
             },
             "number": {
-                "color": "palette.purple"
+                 "color": "palette.purple"
             },
             "integer": {
-                "color": "palette.purple"
+                 "color": "palette.purple"
             },
             "float": {
-                "color": "palette.purple"
+                 "color": "palette.purple"
             },
             "bool": {
-                "color": "palette.purple"
+                 "color": "palette.purple"
             },
             "unit": {
-                "color": "palette.pink"
+                "color": "palette.red"
             },
             "regexp": {
                 "color": "palette.yellow"
@@ -176,31 +169,31 @@
                 "color": "palette.purple"
             },
             "operator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "arithmeticOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "logicOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "bitwiseOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "compareOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "updateOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "definitionOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "typeOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "controlOperator": {
-                "color": "palette.gray"
+                "color": "palette.red"
             },
             "heading1": {
                 "color": "palette.green",
@@ -263,7 +256,8 @@
                 "color": "palette.purple"
             },
             "keyword.definition": {
-                "color": "palette.purple"
+                "color": "palette.blue",
+                "italic": true
             },
             "keyword.module": {
                 "color": "palette.purple"
