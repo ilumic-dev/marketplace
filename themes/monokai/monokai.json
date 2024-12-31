@@ -41,23 +41,23 @@
         },
         "editor": {
             "comment": {
-                "color": "palette.lightGray",
+                "color": "palette.lightgray",
                 "italic": true
             },
             "blockComment": {
-                "color": "palette.lightGray",
+                "color": "palette.lightgray",
                 "italic": true
             },
             "lineComment": {
-                "color": "palette.lightGray",
+                "color": "palette.lightgray",
                 "italic": true
             },
             "multipleComment": {
-                "color": "palette.lightGray",
+                "color": "palette.lightgray",
                 "italic": true
             },
             "docComment": {
-                "color": "palette.lightGray",
+                "color": "palette.lightgray",
                 "italic": true
             },
             "macroName": {
@@ -119,22 +119,22 @@
                 "color": ""
             },
             "string": {
-                "color": ""
+                "color": "palette.yellow"
             },
             "stringSpecial": {
-                "color": ""
+                "color": "palette.yellow"
             },
             "literal": {
-                "color": ""
+                "color": "palette.yellow"
             },
             "number": {
-                "color": ""
+                "color": "palette.purple"
             },
             "integer": {
-                "color": ""
+                "color": "palette.purple"
             },
             "float": {
-                "color": ""
+                "color": "palette.purple"
             },
             "bool": {
                 "color": ""
@@ -153,6 +153,36 @@
             },
             "modifier": {
                 "color": ""
+            },
+            "operator": {
+                "color": "palette.pink"
+            },
+            "derefOperator": {
+                "color": "palette.pink"
+            },
+            "arithmeticOperator": {
+                "color": "palette.pink"
+            },
+            "logicOperator": {
+                "color": "palette.pink"
+            },
+            "bitwiseOperator": {
+                "color": "palette.pink"
+            },
+            "compareOperator": {
+                "color": "palette.pink"
+            },
+            "updateOperator": {
+                "color": "palette.pink"
+            },
+            "definitionOperator": {
+                "color": "palette.pink"
+            },
+            "typeOperator": {
+                "color": "palette.pink"
+            },
+            "controlOperator": {
+                "color": "palette.pink"
             },
             "heading1": {
                 "color": ""
@@ -197,10 +227,10 @@
                 "color": ""
             },
             "keyword.operator": {
-                "color": ""
+                "color": "palette.pink"
             },
             "keyword.control": {
-                "color": ""
+                "color": "palette.pink"
             },
             "keyword.definition": {
                 "color": "palette.blue",
