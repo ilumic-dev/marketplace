@@ -41,8 +41,8 @@
             "projectIconShadow": false,
             "activeTabBackground": "transparent",
             "tabsBackground": "#2C2525",
-            "separatorBorder": "#323544",
-            "toolbarBackground": "#161821",
+            "separatorBorder": "#403838",
+            "toolbarBackground": "#191515",
             "editor.emptyLineGutterFg": "#ffffff12",
             "tabAccent": "#FFD76D"
         },
