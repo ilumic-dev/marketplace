@@ -17,10 +17,10 @@
             "overlay1": "#221F22",
             "border": "#161B1E",
             "panel": "#282A3A",
-            "paneldark": "#1D2528",
-            "paneldarkBorder": "#161B1E",
+            "paneldark": "#1E1F2B",
+            "paneldarkBorder": "#161821",
             "surface": "#323544",
-            "base": "#221F22"
+            "base": "#1E1F2B"
         },
         "ui": {
             "editor.cursor": "#FCFCFA",
@@ -30,7 +30,7 @@
             "editor.lineNumbers": "#535763",
             "editor.activeLineNumbers": "#B8C4C3",
             "text": "palette.white",
-            "statusBarBackground": "#1D2528",
+            "statusBarBackground": "#1E1F2B",
             "editor.bracketPairColorization1": "palette.red",
             "editor.bracketPairColorization2": "palette.peach",
             "editor.bracketPairColorization3": "palette.yellow",
