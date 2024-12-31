@@ -1,0 +1,9 @@
+{
+    "name": "After Dark",
+    "description": "✨ Theme for your eyes",
+    "version": "1.0.0",
+    "author": "Simeon Kerkola",
+    "themes": [
+        "after-dark.json"
+    ]
+}
