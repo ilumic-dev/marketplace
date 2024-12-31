@@ -3,7 +3,7 @@
     "type": "dark",
     "data": {
         "palette": {
-                "red": "#e78284",
+            "red": "#F386BF",
             "yellow": "#E8C37D",
             "peach": "#E8C37D",
             "green": "#98C379",
@@ -100,13 +100,16 @@
                 "color": "palette.teal"
             },
             "variableNameCss": {
-                "color": ""
+                "color": "palette.red"
+            },
+            "propertyName": {
+                "color": "palette.blue"
             },
             "propertyDefinition": {
                 "color": ""
             },
             "propertyFunction": {
-                "color": ""
+                "color": "palette.teal"
             },
             "propertyVar": {
                 "color": "palette.blue"
@@ -136,7 +139,7 @@
                 "color": "palette.green"
             },
             "stringSpecial": {
-                "color": ""
+                "color": "palette.green"
             },
             "literal": {
                 "color": "palette.peach"
@@ -151,14 +154,13 @@
                 "color": "palette.peach"
             },
             "bool": {
-                "color": "",
-                "italic": true
+                "color": "palette.yellow"
             },
             "unit": {
-                "color": ""
+                "color": "palette.peach"
             },
             "regexp": {
-                "color": ""
+                "color": "palette.red"
             },
             "color": {
                 "color": ""
@@ -203,7 +205,7 @@
                 "color": "palette.purple"
             },
             "keyword.module": {
-                "color": ""
+                "color": "palette.purple"
             }
         }
     }
