@@ -3,137 +3,149 @@
     "type": "dark",
     "data": {
         "palette": {
-            "red": "#D16969",
-            "yellow": "#DCDCAA",
-            "peach": "#F1C531",
-            "green": "#B5CEA8",
-            "blue": "#4fc1ff",
-            "gray": "#808080",
-            "purple": "#c586c0",
+            "red": "#FF79C6",
+            "yellow": "#F1FA8C",
+            "peach": "#F1AF66",
+            "green": "#4DED6E",
+            "blue": "#81DDF0",
+            "gray": "#47547a",
+            "purple": "#AF89EC",
 
-            "white": "#c6d0f5",
-            "darkGreen": "#6A9955",
-            "orange": "#CE9178",
-            "teal": "#4ec9b0",
-            "darkBlue": "#569CD6",
-            "lightBlue": "#9CDCFE",
+            "accent": "#FF79C6",
+            "lightgray": "#6272A4",
+            "white": "#EBEBE0",
 
-            "accent": "#1D7BED",
-
-            "border": "#393A3B",
-            "panel": "#1E1E1E",
-            "paneldark": "#181818",
-            "paneldarkBorder": "#393A3B",
-            "surface": "#313233",
-            "base": "#181818"
+            "border": "#282A36",
+            "panel": "#282A36",
+            "paneldark": "#21222C",
+            "paneldarkBorder": "#21222C",
+            "surface": "#44475A",
+            "base": "#21222C"
         },
         "ui": {
-            "editor.cursor": "palette.white",
+            "editor.cursor": "#AEAFAD",
             "editor.lineHighlight": "transparent",
-            "selectionBackground": "#185176",
+            "selectionBackground": "#363848",
             "accent": "palette.accent",
-            "editor.lineNumbers": "#6D7680",
-            "editor.activeLineNumbers": "#CCCCCC",
+            "editor.lineNumbers": "#6272A4",
+            "editor.activeLineNumbers": "#C6C6C6",
             "text": "#c6d0f5",
-            "editor.bracketPairColorization1": "#F1C531",
-            "editor.bracketPairColorization2": "#D36CC8",
-            "editor.bracketPairColorization3": "#00A4FB",
-            "editor.bracketPairColorization4": "#F1C531",
-            "editor.bracketPairColorization5": "#D36CC8",
-            "editor.bracketPairColorization6": "#00A4FB",
+            "tabsBackground": "#21222C",
+            "editor.bracketPairColorization1": "palette.white",
+            "editor.bracketPairColorization2": "palette.red",
+            "editor.bracketPairColorization3": "palette.blue",
+            "editor.bracketPairColorization4": "palette.green",
+            "editor.bracketPairColorization5": "palette.purple",
+            "editor.bracketPairColorization6": "palette.peach",
             "editor.notHighlightOnGutter": true,
-            "editor.activeLineBorder": "#282828"
+            "editor.activeLineBorder": "#44475A",
+            "toolbarBackground": "#343746",
+            "statusBarBackground": "#191A21",
+            "tabAccent": "#94517E",
+            "separatorBorder": "#BD93F9",
+            "tabAccentPosition": "top"
         },
         "editor": {
             "documentMeta": {
-                "color": "palette.darkGreen"
+                "color": "palette.lightgray"
             },
             "comment": {
-                "color": "palette.darkGreen"
+                "color": "palette.lightgray"
             },
             "lineComment": {
-                "color": "palette.darkGreen"
+                "color": "palette.lightgray"
             },
             "blockComment": {
-                "color": "palette.darkGreen"
+                "color": "palette.lightgray"
             },
-            "docComment": {
-                "color": "palette.darkGreen"
-            },
-            "tagName": {
-                "color": "palette.blue"
-            },
-            "phpDelimiter": {
-                "color": "palette.darkBlue"
-            },
-            "constantName": {
-                "color": "palette.lightBlue",
-                "fontWeight": "bold",
+            "className": {
+                "color": "palette.green",
                 "italic": true
             },
+            "classNameConstant": {
+                "color": "palette.green",
+                "italic": true
+            },
+            "docComment": {
+                "color": "palette.lightgray"
+            },
+            "tagName": {
+                "color": "palette.red"
+            },
+            "phpDelimiter": {
+                "color": "palette.red"
+            },
+            "constantName": {
+                "color": "palette.purple"
+            },
             "angleBracket": {
-                "color": "palette.gray"
+                "color": "palette.white"
             },
             "propertyVar": {
-                "color": "palette.lightBlue"
+                "color": "palette.blue"
             },
             "component": {
-                "color": "palette.teal"
+                "color": "palette.blue",
+                "italic": true
             },
             "constant": {
-                "color": "palette.blue"
+                "color": "palette.purple"
             },
             "variableName": {
-                "color": "palette.lightBlue"
+                "color": "palette.white"
             },
             "propertyName": {
-                "color": "palette.lightBlue"
+                "color": "palette.white"
+            },
+            "variableNameCss": {
+                "color": "palette.white"
             },
             "propertyDefinition": {
-                "color": "palette.lightBlue"
+                "color": "palette.white"
             },
             "variableNameFunction": {
-                "color": "palette.yellow"
+                "color": "palette.green"
             },
             "propertyFunction": {
-                "color": "palette.yellow"
+                "color": "palette.green"
             },
             "attributeName": {
-                "color": "palette.lightBlue"
+                "color": "palette.green",
+                "italic": true
             },
             "attributeValue": {
-                "color": "palette.orange"
+                "color": "palette.yellow"
             },
             "variableNameDefinition": {
-                "color": "palette.lightBlue"
+                "color": "palette.white"
             },
             "keyword.definition": {
-                "color": "palette.darkBlue"
+                "color": "palette.red"
             },
             "keyword.operator": {
-                "color": "palette.blue"
+                "color": "palette.red"
             },
             "keyword.control": {
-                "color": "palette.purple"
+                "color": "palette.red"
             },
             "keyword.module": {
-                "color": "palette.purple"
+                "color": "palette.red"
             },
-            "string": { "color": "palette.orange" },
-            "literal": { "color": "palette.orange" },
-            "character": { "color": "palette.orange" },
-            "number": { "color": "palette.green" },
-            "integer": { "color": "palette.green" },
-            "float": { "color": "palette.green" },
-            "bool": { "color": "palette.blue" },
+            "string": { "color": "palette.yellow" },
+            "literal": { "color": "palette.yellow" },
+            "character": { "color": "palette.yellow" },
+            "number": { "color": "palette.purple" },
+            "integer": { "color": "palette.purple" },
+            "float": { "color": "palette.purple" },
+            "bool": { "color": "palette.purple" },
             "regexp": { "color": "palette.red" },
-            "color": { "color": "palette.orange" },
-            "keyword": { "color": "palette.purple" },
-            "self": { "color": "palette.blue" },
-            "null": { "color": "palette.blue" },
-            "atom": { "color": "palette.orange" },
-            "typeOperator": { "color": "palette.blue" },
-            "controlOperator": { "color": "palette.purple" }
+            "color": { "color": "palette.purple" },
+            "keyword": { "color": "palette.red" },
+            "self": { "color": "palette.red" },
+            "null": { "color": "palette.purple" },
+            "atom": { "color": "palette.purple" },
+            "typeOperator": { "color": "palette.red" },
+            "controlOperator": { "color": "palette.red" }
         }
     }
 }
