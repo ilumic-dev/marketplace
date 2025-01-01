@@ -1,0 +1,9 @@
+{
+    "name": "Dracula",
+    "description": "Dracula theme for ilumic editor.",
+    "version": "1.0.0",
+    "author": "ilumic-dev",
+    "themes": [
+        "dracula.json"
+    ]
+}
