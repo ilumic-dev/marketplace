@@ -46,6 +46,9 @@
       "editor.bracketPairColorization6": "#803617"
     },
     "editor": {
+      "documentMeta": {
+        "color": "palette.darkGreen"
+      },
       "comment": {
         "color": "palette.darkGreen"
       },

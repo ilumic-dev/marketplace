@@ -50,6 +50,9 @@
         "fileListHoverTransition": "0s"
       },
       "editor": {
+        "documentMeta": {
+          "color": "palette.darkGreen"
+        },
         "comment": {
           "color": "palette.darkGreen"
         },

@@ -40,6 +40,10 @@
             "editor.notHighlightOnGutter": true
         },
         "editor": {
+            "documentMeta": {
+                "color": "palette.lightGray",
+                "italic": true
+            },
             "comment": {
                 "color": "palette.lightGray",
                 "italic": true

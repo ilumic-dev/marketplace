@@ -40,6 +40,10 @@
         "editor.bracketPairColorization6": "palette.cyan"
       },
       "editor": {
+        "documentMeta": {
+          "color": "palette.lightgray",
+          "italic": true
+        },
         "comment": {
           "color": "palette.lightgray",
           "italic": true

@@ -45,6 +45,9 @@
       "editor.activeLineBorder": "#282828"
     },
     "editor": {
+      "documentMeta": {
+        "color": "palette.darkGreen"
+      },
       "comment": {
         "color": "palette.darkGreen"
       },

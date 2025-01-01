@@ -49,6 +49,10 @@
             "tabAccentPosition": "top"
         },
         "editor": {
+            "documentMeta": {
+                "color": "palette.lightRed",
+                "italic": true
+            },
             "comment": {
                 "color": "palette.lightRed",
                 "italic": true

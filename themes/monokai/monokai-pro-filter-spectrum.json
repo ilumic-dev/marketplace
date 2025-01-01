@@ -47,6 +47,10 @@
             "tabAccent": "#FCE566"
         },
         "editor": {
+            "documentMeta": {
+                "color": "palette.lightgray",
+                "italic": true
+            },
             "comment": {
                 "color": "palette.lightgray",
                 "italic": true
