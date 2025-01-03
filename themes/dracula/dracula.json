@@ -44,7 +44,8 @@
             "tabAccent": "#94517E",
             "separatorBorder": "#BD93F9",
             "activeTabBackground": "palette.panel",
-            "tabAccentPosition": "top"
+            "tabAccentPosition": "top",
+            "tabOutline": 
         },
         "editor": {
             "documentMeta": {

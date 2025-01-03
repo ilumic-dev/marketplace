@@ -42,6 +42,9 @@
       "editor.bracketPairColorization5": "#D36CC8",
       "editor.bracketPairColorization6": "#00A4FB",
       "editor.notHighlightOnGutter": true,
+      "statusBarBackground": "#1E1E1E",
+      "tabAccentPosition": "top",
+      "tabsBackground": "#181818",
       "editor.activeLineBorder": "#282828"
     },
     "editor": {
