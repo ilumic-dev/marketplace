@@ -1,283 +1,283 @@
 {
   "iconDefinitions": {
     "file_text": {
-      "iconPath": "./icons/text_dark.svg"
+      "iconPath": "icons/text_dark.svg"
     },
     "file_kotlin": {
-      "iconPath": "./icons/kotlin_dark.svg"
+      "iconPath": "icons/kotlin_dark.svg"
     },
     "folder": {
-      "iconPath": "./icons/folder_dark.svg"
+      "iconPath": "icons/folder_dark.svg"
     },
     "folder_vendor": {
-      "iconPath": "./icons/folderVendor_dark.svg"
+      "iconPath": "icons/folderVendor_dark.svg"
     },
     "folder_test": {
-      "iconPath": "./icons/folderTest_dark.svg"
+      "iconPath": "icons/folderTest_dark.svg"
     },
     "folder_controller": {
-      "iconPath": "./icons/folderControllers_dark.svg"
+      "iconPath": "icons/folderControllers_dark.svg"
     },
     "folder_mailers": {
-      "iconPath": "./icons/folderMailers_dark.svg"
+      "iconPath": "icons/folderMailers_dark.svg"
     },
     "folder_helper": {
-      "iconPath": "./icons/folderHelpers_dark.svg"
+      "iconPath": "icons/folderHelpers_dark.svg"
     },
     "folder_migrate": {
-      "iconPath": "./icons/folderMigrations_dark.svg"
+      "iconPath": "icons/folderMigrations_dark.svg"
     },
     "file_ignored": {
-      "iconPath": "./icons/ignored_dark.svg"
+      "iconPath": "icons/ignored_dark.svg"
     },
     "file_css": {
-      "iconPath": "./icons/css.svg"
+      "iconPath": "icons/css.svg"
     },
     "file_erb": {
-      "iconPath": "./icons/erbFile_dark.svg"
+      "iconPath": "icons/erbFile_dark.svg"
     },
     "file_scss": {
-      "iconPath": "./icons/scss.svg"
+      "iconPath": "icons/scss.svg"
     },
     "file_json": {
-      "iconPath": "./icons/json_dark.svg"
+      "iconPath": "icons/json_dark.svg"
     },
     "file_html": {
-      "iconPath": "./icons/html_dark.svg"
+      "iconPath": "icons/html_dark.svg"
     },
     "file_react": {
-      "iconPath": "./icons/react_dark.svg"
+      "iconPath": "icons/react_dark.svg"
     },
     "file_ruby": {
-      "iconPath": "./icons/ruby_dark.svg"
+      "iconPath": "icons/ruby_dark.svg"
     },
     "file_rake": {
-      "iconPath": "./icons/rakeTask_dark.svg"
+      "iconPath": "icons/rakeTask_dark.svg"
     },
     "file_gemfile": {
-      "iconPath": "./icons/rubyGems_dark.svg"
+      "iconPath": "icons/rubyGems_dark.svg"
     },
     "file_less": {
-      "iconPath": "./icons/less_dark.svg"
+      "iconPath": "icons/less_dark.svg"
     },
     "file_javascript": {
-      "iconPath": "./icons/javaScript_dark.svg"
+      "iconPath": "icons/javaScript_dark.svg"
     },
     "file_typescript": {
-      "iconPath": "./icons/typeScript_dark.svg"
+      "iconPath": "icons/typeScript_dark.svg"
     },
     "file_csv": {
-      "iconPath": "./icons/csv_dark.svg"
+      "iconPath": "icons/csv_dark.svg"
     },
     "file_vue": {
-      "iconPath": "./icons/vueJs.svg"
+      "iconPath": "icons/vueJs.svg"
     },
     "file_editorconfig": {
-      "iconPath": "./icons/editorConfig_dark.svg"
+      "iconPath": "icons/editorConfig_dark.svg"
     },
     "file_image": {
-      "iconPath": "./icons/image_dark.svg"
+      "iconPath": "icons/image_dark.svg"
     },
     "file_font": {
-      "iconPath": "./icons/font_dark.svg"
+      "iconPath": "icons/font_dark.svg"
     },
     "file_yaml": {
-      "iconPath": "./icons/yaml_dark.svg"
+      "iconPath": "icons/yaml_dark.svg"
     },
     "file_java": {
-      "iconPath": "./icons/java_dark.svg"
+      "iconPath": "icons/java_dark.svg"
     },
     "file_xml": {
-      "iconPath": "./icons/xml_dark.svg"
+      "iconPath": "icons/xml_dark.svg"
     },
     "file_sql": {
-      "iconPath": "./icons/sql_dark.svg"
+      "iconPath": "icons/sql_dark.svg"
     },
     "file_slim": {
-      "iconPath": "./icons/slim_dark.svg"
+      "iconPath": "icons/slim_dark.svg"
     },
     "file_sln": {
-      "iconPath": "./icons/solution_dark.svg"
+      "iconPath": "icons/solution_dark.svg"
     },
     "file_yarn": {
-      "iconPath": "./icons/yarn.svg"
+      "iconPath": "icons/yarn.svg"
     },
     "file_markdown": {
-      "iconPath": "./icons/markdown_dark.svg"
+      "iconPath": "icons/markdown_dark.svg"
     },
     "file_gitignore": {
-      "iconPath": "./icons/gitignore.svg"
+      "iconPath": "icons/gitignore.svg"
     },
     "file_gleam": {
-      "iconPath": "./icons/gleam_dark.svg"
+      "iconPath": "icons/gleam_dark.svg"
     },
     "file_properties": {
-      "iconPath": "./icons/properties_dark.svg"
+      "iconPath": "icons/properties_dark.svg"
     },
     "file_shell": {
-      "iconPath": "./icons/shell_dark.svg"
+      "iconPath": "icons/shell_dark.svg"
     },
     "file_h": {
-      "iconPath": "./icons/h_dark.svg"
+      "iconPath": "icons/h_dark.svg"
     },
     "file_c": {
-      "iconPath": "./icons/c_dark.svg"
+      "iconPath": "icons/c_dark.svg"
     },
     "file_cpp": {
-      "iconPath": "./icons/cpp_dark.svg"
+      "iconPath": "icons/cpp_dark.svg"
     },
     "file_scala": {
-      "iconPath": "./icons/scala_dark.svg"
+      "iconPath": "icons/scala_dark.svg"
     },
     "file_archive": {
-      "iconPath": "./icons/archive_dark.svg"
+      "iconPath": "icons/archive_dark.svg"
     },
     "file_toml": {
-      "iconPath": "./icons/toml_dark.svg"
+      "iconPath": "icons/toml_dark.svg"
     },
     "file_python": {
-      "iconPath": "./icons/python.svg"
+      "iconPath": "icons/python.svg"
     },
     "file_terraform": {
-      "iconPath": "./icons/terraform_dark.svg"
+      "iconPath": "icons/terraform_dark.svg"
     },
     "file_go": {
-      "iconPath": "./icons/go_dark.svg"
+      "iconPath": "icons/go_dark.svg"
     },
     "file_gomod": {
-      "iconPath": "./icons/goMod_dark.svg"
+      "iconPath": "icons/goMod_dark.svg"
     },
     "file_gosum": {
-      "iconPath": "./icons/goSum_dark.svg"
+      "iconPath": "icons/goSum_dark.svg"
     },
     "file_gowork": {
-      "iconPath": "./icons/goWork_dark.svg"
+      "iconPath": "icons/goWork_dark.svg"
     },
     "file_http": {
-      "iconPath": "./icons/http_dark.svg"
+      "iconPath": "icons/http_dark.svg"
     },
     "file_dart": {
-      "iconPath": "./icons/dart_dark.svg"
+      "iconPath": "icons/dart_dark.svg"
     },
     "file_docker": {
-      "iconPath": "./icons/docker_dark.svg"
+      "iconPath": "icons/docker_dark.svg"
     },
     "file_actionscript": {
-      "iconPath": "./icons/actionScript_dark.svg"
+      "iconPath": "icons/actionScript_dark.svg"
     },
     "file_php": {
-      "iconPath": "./icons/php_dark.svg"
+      "iconPath": "icons/php_dark.svg"
     },
     "file_makefile": {
-      "iconPath": "./icons/makefile_dark.svg"
+      "iconPath": "icons/makefile_dark.svg"
     },
     "file_config": {
-      "iconPath": "./icons/config_dark.svg"
+      "iconPath": "icons/config_dark.svg"
     },
     "file_any": {
-      "iconPath": "./icons/anyType_dark.svg"
+      "iconPath": "icons/anyType_dark.svg"
     },
     "file_svelte": {
-      "iconPath": "./icons/svelte.svg"
+      "iconPath": "icons/svelte.svg"
     },
     "file_rust": {
-      "iconPath": "./icons/rustFile_dark.svg"
+      "iconPath": "icons/rustFile_dark.svg"
     },
     "file_cargo": {
-      "iconPath": "./icons/cargo_dark.svg"
+      "iconPath": "icons/cargo_dark.svg"
     },
     "file_cargolock": {
-      "iconPath": "./icons/cargoLock_dark.svg"
+      "iconPath": "icons/cargoLock_dark.svg"
     },
     "file_cmake": {
-      "iconPath": "./icons/CMake_dark.svg"
+      "iconPath": "icons/CMake_dark.svg"
     },
     "file_pnpm": {
-      "iconPath": "./icons/pnpm_dark.svg"
+      "iconPath": "icons/pnpm_dark.svg"
     },
     "file_tailwind": {
-      "iconPath": "./icons/tailwind.svg"
+      "iconPath": "icons/tailwind.svg"
     },
     "file_vite": {
-      "iconPath": "./icons/vite_dark.svg"
+      "iconPath": "icons/vite_dark.svg"
     },
     "file_postcss": {
-      "iconPath": "./icons/postcss.svg"
+      "iconPath": "icons/postcss.svg"
     },
     "file_angular": {
-      "iconPath": "./icons/angularJS.svg"
+      "iconPath": "icons/angularJS.svg"
     },
     "file_eslint": {
-      "iconPath": "./icons/eslint.svg"
+      "iconPath": "icons/eslint.svg"
     },
     "file_cs": {
-      "iconPath": "./icons/cs_dark.svg"
+      "iconPath": "icons/cs_dark.svg"
     },
     "file_cshtml": {
-      "iconPath": "./icons/cshtml_dark.svg"
+      "iconPath": "icons/cshtml_dark.svg"
     },
     "file_csproj": {
-      "iconPath": "./icons/csproj_dark.svg"
+      "iconPath": "icons/csproj_dark.svg"
     },
     "file_elixir": {
-      "iconPath": "./icons/elixir_dark.svg"
+      "iconPath": "icons/elixir_dark.svg"
     },
     "file_beam": {
-      "iconPath": "./icons/beam.svg"
+      "iconPath": "icons/beam.svg"
     },
     "file_embedded_elixir": {
-      "iconPath": "./icons/eex_dark.svg"
+      "iconPath": "icons/eex_dark.svg"
     },
     "file_swift": {
-      "iconPath": "./icons/swift.svg"
+      "iconPath": "icons/swift.svg"
     },
     "file_clojure": {
-      "iconPath": "./icons/clojure.svg"
+      "iconPath": "icons/clojure.svg"
     },
     "file_ml": {
-      "iconPath": "./icons/ml.svg"
+      "iconPath": "icons/ml.svg"
     },
     "file_mli": {
-      "iconPath": "./icons/mli.svg"
+      "iconPath": "icons/mli.svg"
     },
     "file_dune": {
-      "iconPath": "./icons/dune.svg"
+      "iconPath": "icons/dune.svg"
     },
     "file_opam": {
-      "iconPath": "./icons/opam.svg"
+      "iconPath": "icons/opam.svg"
     },
     "file_protobuf": {
-      "iconPath": "./icons/protoFile_dark.svg"
+      "iconPath": "icons/protoFile_dark.svg"
     },
     "file_hcl": {
-      "iconPath": "./icons/hcl_dark.svg"
+      "iconPath": "icons/hcl_dark.svg"
     },
     "file_rego": {
-      "iconPath": "./icons/rego.svg"
+      "iconPath": "icons/rego.svg"
     },
     "file_application": {
-      "iconPath": "./icons/application_dark.svg"
+      "iconPath": "icons/application_dark.svg"
     },
     "file_jupyter": {
-      "iconPath": "./icons/jupyter.svg"
+      "iconPath": "icons/jupyter.svg"
     },
     "file_mdx": {
-      "iconPath": "./icons/mdx.svg"
+      "iconPath": "icons/mdx.svg"
     },
     "file_erlang": {
-      "iconPath": "./icons/erlang.svg"
+      "iconPath": "icons/erlang.svg"
     },
     "file_lua": {
-      "iconPath": "./icons/lua.svg"
+      "iconPath": "icons/lua.svg"
     },
     "file_haskell": {
-      "iconPath": "./icons/haskell.svg"
+      "iconPath": "icons/haskell.svg"
     },
     "file_graphql": {
-      "iconPath": "./icons/graphql.svg"
+      "iconPath": "icons/graphql.svg"
     },
     "file_buildprops": {
-      "iconPath": "./icons/projectProperties_dark.svg"
+      "iconPath": "icons/projectProperties_dark.svg"
     }
   },
   "file": "file_text",
