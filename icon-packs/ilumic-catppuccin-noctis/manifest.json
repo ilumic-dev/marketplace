@@ -3,7 +3,7 @@
     "description": "Builtin default icons",
     "version": "1.0.0",
     "author": "ilumic-dev",
-    "scale": "6px",
+    "scale": 6,
     "themes": {
         "dark": "theme-dark.json",
         "light": "theme-light.json"
