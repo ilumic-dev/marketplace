@@ -1,0 +1,10 @@
+{
+    "name": "Jetbrains Icons",
+    "description": "JetBrains file icons for ilumic.",
+    "version": "1.0.0",
+    "author": "ilumic-dev",
+    "themes": {
+        "dark": "theme-dark.json",
+        "light": "theme-light.json"
+    }
+}
