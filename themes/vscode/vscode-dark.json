@@ -20,10 +20,10 @@
 
       "accent": "#1D7BED",
 
-      "border": "#393A3B",
+      "border": "#2B2B2B",
       "panel": "#1E1E1E",
       "paneldark": "#181818",
-      "paneldarkBorder": "#393A3B",
+      "paneldarkBorder": "#2B2B2B",
       "surface": "#313233",
       "base": "#181818"
     },
@@ -42,8 +42,8 @@
       "editor.bracketPairColorization5": "#D36CC8",
       "editor.bracketPairColorization6": "#00A4FB",
       "editor.notHighlightOnGutter": true,
+      "activeTabBackground": "palette.panel",
       "statusBarBackground": "#1E1E1E",
-      "tabAccentPosition": "top",
       "tabsBackground": "#181818",
       "editor.activeLineBorder": "#282828"
     },

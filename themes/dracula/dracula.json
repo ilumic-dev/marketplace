@@ -43,8 +43,7 @@
             "statusBarBackground": "#191A21",
             "tabAccent": "#94517E",
             "separatorBorder": "#BD93F9",
-            "activeTabBackground": "palette.panel",
-            "tabAccentPosition": "top"
+            "activeTabBackground": "palette.panel"
         },
         "editor": {
             "documentMeta": {
